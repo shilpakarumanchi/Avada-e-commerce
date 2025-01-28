@@ -9,7 +9,7 @@ Avada commerce is an e-commerce company established in 2018, selling electronic 
 
 
 # Data cleaning
-Steps taken to clean the inconsistencies and non-sensical values are detailed here.
+Steps taken to clean the inconsistencies and non-sensical values are detailed here .
 # Data insights
 ## Sales 
 ![image](https://github.com/user-attachments/assets/eeea61c3-79cc-4e2a-9471-5e7bc649244d)
