@@ -12,7 +12,8 @@ Avada commerce is an e-commerce company established in 2018, selling electronic 
 Steps taken to clean the inconsistencies and non-sensical values are detailed [here](https://github.com/shilpakarumanchi/Avada-e-commerce/blob/f541a30ab36c7882ae310ac77c14eef550c869cc/Avada_issue_log.xlsx).
 # Data insights
 ## Sales 
-![image](https://github.com/user-attachments/assets/eeea61c3-79cc-4e2a-9471-5e7bc649244d)
+![image](https://github.com/user-attachments/assets/392a189f-684f-4c3a-9aa6-3dedd0ade5c6)
+
 
 
 ## Loyalty Program
