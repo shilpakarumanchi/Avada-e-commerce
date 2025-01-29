@@ -7,11 +7,13 @@ A comprehenssive analysis has been performed on this data inorder to provide ins
 This project provides insights and recommendations on the following areas:
 1. Sales Trends: Month Over Month (MOM) and Year Over Year (YOY) growth rates, Average Order Value (AOV) & Number of orders.
 2. Product performance: Market impact of individual product lines.
-3. Operational effectiveness: Time taken to deliver a product domestically and globally.
-4. Loyalty Program: Assessment of effectiveness of the program and its future.
+3. Operational effectiveness: Product delivery domestically and globally.
+4. Marketting efforts: Assessment of effectiveness of the loyalty program that has been inititated to improve sales and its future.
 5. Refinds: Refund rates, Highly refunded items, AOV.
 
 ## ERD
+The following image provides the Entity Relation Diagram (ERD) of the current database.
+We can notice that the item Order_ID is referred as a primary Key (PK).
 
 ![Image ALT](https://github.com/shilpakarumanchi/Avada-e-commerce/blob/cc68913111f297ffdfe4c47ef0bf36e37101e2fd/ERD.png)
 
