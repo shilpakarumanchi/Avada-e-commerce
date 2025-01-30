@@ -13,7 +13,7 @@ This project provides insights and recommendations on the following areas:
 
 ## ERD
 The following image provides the Entity Relation Diagram (ERD) of the current database.
-We can notice that the item Order_ID is referred as a primary Key (PK).
+We can notice that the variable Order_ID is referred as a primary Key (PK).
 
 ![Image ALT](https://github.com/shilpakarumanchi/Avada-e-commerce/blob/cc68913111f297ffdfe4c47ef0bf36e37101e2fd/ERD.png)
 
