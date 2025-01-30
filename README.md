@@ -20,10 +20,6 @@ We can notice that the variable Order_ID is referred as a primary Key (PK).
 # Data cleaning
 Steps taken to clean the inconsistencies and non-sensical values are detailed [here](https://github.com/shilpakarumanchi/Avada-e-commerce/blob/f541a30ab36c7882ae310ac77c14eef550c869cc/Avada_issue_log.xlsx).
 
-What are the overall trends in sales during this time. (2019-2022)
-What were our monthly and yearly growth rates?
-How is the new loyalty program perform? Should we keep using it?
-What were our refund rates and average order value?
 # Data insights
 Overall trands in sales by product type between 2019 and 2023 can be seen in the following graph.
 ![image](https://github.com/user-attachments/assets/9828cec6-52e3-4d45-8280-78988ddd32ae)
