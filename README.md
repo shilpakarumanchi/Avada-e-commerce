@@ -21,23 +21,23 @@ We can notice that the variable Order_ID is referred as a primary Key (PK).
 Steps taken to clean the inconsistencies and non-sensical values are detailed [here](https://github.com/shilpakarumanchi/Avada-e-commerce/blob/f541a30ab36c7882ae310ac77c14eef550c869cc/Avada_issue_log.xlsx).
 
 # Data insights
-Overall trands in sales by product type between 2019 and 2023 can be seen in the following graph.
-![image](https://github.com/user-attachments/assets/9828cec6-52e3-4d45-8280-78988ddd32ae)
-
 ## Sales 
+Sales revenue trends by product type between 2019 and 2022.
+![image](https://github.com/user-attachments/assets/9828cec6-52e3-4d45-8280-78988ddd32ae)
 Between 2019 and 2022, Avada e-commerce has obtained over 108k orders and generated a total of $28 M in sales revenue, with an AOV of $260.
 Across the years, 2020 has the highest revenue of $10M with an AOV of $300 followed by 2021 with 9M in revenue and an AOV of $255.
 However the numberof orders were higher in 2021 with 35k followed by 2020 with 33k.
 Over all sales have substantially increased starting from March till December 2020,possibly due to pandemic spending.
-Within each year, sales have climbed up during the months of September and December that can be attributed to back to school and holiday season.
+### Seasonality
+Within each year, sales have increased during the months of September and December that can be attributed to back to school and holiday seasons.
 Lowest sales were noticed during 
-
-
+## Product Delivery 
 ## Loyalty Program
 ## Refunds
 
 
 # Recommendations
 ## Sales 
+## Product Delivery
 ## Loyalty Program
 ## Refunds
