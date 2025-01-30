@@ -28,20 +28,23 @@ Sales revenue trends by product type between 2019 and 2022.
 Between 2019 and 2022, Avada e-commerce has obtained over 108k orders and generated a total of $28 M in sales revenue, with an AOV of $260.
 Across the years, 2020 has the highest revenue of $10M with an AOV of $300 followed by 2021 with 9M in revenue and an AOV of $255.
 However the number of orders were higher in 2021 with 35k followed by 2020 with 33k.
-Over all sales have substantially increased starting from March till December 2020,possibly due to pandemic spending.
+Over all sales have increased from March till December 2020, possibly due to pandemic spending.
 	![image](https://github.com/user-attachments/assets/a7060bcd-98e1-4ee7-b4d9-f8834f15b458)
-
-
 ### Seasonality
 Within each year, sales have increased during the months of September and December that can be attributed to back to school and holiday seasons.
-Lowest sales were noticed during 
-## Product Delivery 
+Lowest sales were noticed between February and June and in October, i.e. right after the holidays and back to school seasons. 
+### By product line
+
+## Product Delivery
+On average Avada requires 2 days to ship and 8 days to deliver a product. This has been consistent across the four global regions and across 8 product lines.
 ## Loyalty Program
 ## Refunds
 
 
 # Recommendations
 ## Sales 
+Rebates or special offers can be introduced during the lowest sales revenue tiems of the year (i.e. between February and April and during October) inorder to encourage customer spending.
 ## Product Delivery
+Measures should be taken to ship the product on the day of purchase, so that delivery time can be reduced by 25%. 
 ## Loyalty Program
 ## Refunds
