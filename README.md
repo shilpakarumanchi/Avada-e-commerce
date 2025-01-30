@@ -29,7 +29,8 @@ Between 2019 and 2022, Avada e-commerce has obtained over 108k orders and genera
 Across the years, 2020 has the highest revenue of $10M with an AOV of $300 followed by 2021 with 9M in revenue and an AOV of $255.
 However the number of orders were higher in 2021 with 35k followed by 2020 with 33k.
 Over all sales have substantially increased starting from March till December 2020,possibly due to pandemic spending.
-![image](https://github.com/user-attachments/assets/38223879-4bb8-4314-95f0-d40c69a17352)
+	![image](https://github.com/user-attachments/assets/a7060bcd-98e1-4ee7-b4d9-f8834f15b458)
+
 
 ### Seasonality
 Within each year, sales have increased during the months of September and December that can be attributed to back to school and holiday seasons.
