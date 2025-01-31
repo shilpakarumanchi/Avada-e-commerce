@@ -32,7 +32,7 @@ Over all sales have substantially increased from March 2020 till December 2020, 
 ![image](https://github.com/user-attachments/assets/9828cec6-52e3-4d45-8280-78988ddd32ae)
 	
 ### Product line
-Overall 27in 4k gaming monitor, Macbook Air laptop and Apple Arrpods are the highest grossing products, corresponding to a total of 80% of the sales revenue.
+Overall 27in 4k gaming monitor, Macbook Air laptop and Apple Airpods are the highest grossing products, corresponding to a total of 80% of the sales revenue.
 On the contrary, Bose soundsport headphones, Apple Iphone, Samsung charging cable pack & Samsung webcam are the least grossing products, correspoding to a total of 15% of the sales revenue.
 ### Seasonality
 Within each year, sales have increased during the months of September and December that can be attributed to back to school and holiday seasons.
