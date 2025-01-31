@@ -32,15 +32,13 @@ Over all sales have substantially increased from March 2020 till December 2020, 
 ![image](https://github.com/user-attachments/assets/9828cec6-52e3-4d45-8280-78988ddd32ae)
 	
 ### Product line
-Overall 27in 4k gaming monitor, Macbook Air laptop and Apple Airpods are the highest grossing products, corresponding to a total of 80% of the sales revenue.
-On the contrary, Bose soundsport headphones, Apple Iphone, Samsung charging cable pack & Samsung webcam are the least grossing products, correspoding to a total of 15% of the sales revenue.
+Overall 27in 4k gaming monitors, Apple Airpods, Macbook Air Laptops and Thinkpad Laptops are the highest grossing products, adding up to a total of 96% of the sales revenue. Among the highest grossing items, 27in 4k gaming monitors, Macbook Air Laptops are the top 2 items contributing to 63% of the total sales revenue. On the contrary, Bose soundsport headphones, Apple Iphone, Samsung charging cable pack & Samsung webcam are the least grossing products, adding up to a total of 4% of the sales revenue.
 ### Seasonality
 Within each year, sales have increased during the months of September and December that can be attributed to back to school and holiday seasons.
 Lowest sales were noticed between February and June and in October, i.e. right after the holidays and back to school seasons. 
 
-
 ## Product Delivery
-On average Avada requires 2 days to ship and 8 days to deliver a product. This has been consistent across the four global regions and across 8 product lines.
+On average Avada requires 2 days to ship and 8 days to deliver a product. This trend has been consistent across the four global regions and 8 product lines.
 ## Loyalty Program
 ## Refunds
 
@@ -48,7 +46,11 @@ On average Avada requires 2 days to ship and 8 days to deliver a product. This h
 # Recommendations
 ## Sales 
 Rebates or special offers can be introduced during the lowest sales revenue tiems of the year (i.e. between February and April and during October) inorder to encourage customer spending.
+Inorder to improve operational efficiency Avada can narrowdown the product line to the highest grossing products i.e. 27in 4k gaming monitors, Apple Airpods, Macbook Air Laptops and Thinkpad Laptops.
 ## Product Delivery
 Measures should be taken to ship the product on the day of purchase, so that delivery time can be reduced by 25%. 
 ## Loyalty Program
+Total sales revenue and AOV of loyalty program customers has been increasing ove the past year, giving positive indications that the loyalty program can be continued.
 ## Refunds
+Overall refund percentage is 5%, indicating that Avada is providing quality products and receiving high customer satisfaction.
+However, there were no refunds in 2022
