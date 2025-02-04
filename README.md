@@ -16,10 +16,8 @@ The following image provides the Entity Relation Diagram (ERD) of the current da
 
 ![Image ALT](https://github.com/shilpakarumanchi/Avada-e-commerce/blob/cc68913111f297ffdfe4c47ef0bf36e37101e2fd/ERD.png)
 
-# Data cleaning & Analyses
+# Data cleaning
 Steps taken to clean the inconsistencies and non-sensical values are detailed [here](https://github.com/shilpakarumanchi/Avada-e-commerce/blob/f541a30ab36c7882ae310ac77c14eef550c869cc/Avada_issue_log.xlsx).
-
-Summary statistics and other analyses performed in excel can be found [here]
 
 # Data insights
 ## Sales 
