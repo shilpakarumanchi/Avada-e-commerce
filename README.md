@@ -16,8 +16,10 @@ The following image provides the Entity Relation Diagram (ERD) of the current da
 
 ![Image ALT](https://github.com/shilpakarumanchi/Avada-e-commerce/blob/cc68913111f297ffdfe4c47ef0bf36e37101e2fd/ERD.png)
 
-# Data cleaning
+# Data cleaning & Analyses
 Steps taken to clean the inconsistencies and non-sensical values are detailed [here](https://github.com/shilpakarumanchi/Avada-e-commerce/blob/f541a30ab36c7882ae310ac77c14eef550c869cc/Avada_issue_log.xlsx).
+
+Summary statistics and other analyses performed in excel can be found [here]
 
 # Data insights
 ## Sales 
@@ -46,7 +48,8 @@ Steps taken to clean the inconsistencies and non-sensical values are detailed [h
 - In addition, the AOV is gradually increasing over the years for customers in loyalty program and in 2022 the AOV of loyalty program customers is $245 which is higher than $214, the the AOV of customers not in loyalty program.
   
 ## Refunds
-
+- Overall refund rate is around 5%.
+- ThinkPad Laptop (12%) and Macbook Air Laptop (11%) have the highest refund rates, while the Apple Airpods Headphones (2,636) and 27in 4K Gaming Monitor (1,444) have the highest number of refunds.
 
 # Recommendations
 ## Sales 
@@ -58,4 +61,4 @@ Measures should be taken to ship the product on the day of purchase, so that del
 Total sales revenue and AOV of loyalty program customers has been increasing ove the past year, giving positive indications that the loyalty program can be continued.
 ## Refunds
 Overall refund percentage is 5%, indicating that Avada is providing quality products and receiving high customer satisfaction.
-However, there were no refunds in 2022
+However, there were no refunds in 2022 that needs to be looked into.
