@@ -17,8 +17,8 @@ The following image provides the Entity Relation Diagram (ERD) of the current da
 ![Image ALT](https://github.com/shilpakarumanchi/Avada-e-commerce/blob/cc68913111f297ffdfe4c47ef0bf36e37101e2fd/ERD.png)
 
 # Data processing
-Steps taken to clean the inconsistencies and non-sensical values are detailed [here](https://github.com/shilpakarumanchi/Avada-e-commerce/blob/f541a30ab36c7882ae310ac77c14eef550c869cc/Avada_issue_log.xlsx).
-SQL queried used to derive insigths can be found [here](https://github.com/shilpakarumanchi/Avada-e-commerce/blob/471184cb64ad8eb3ade58a3a6c11e3cae75aae50/sql_code.sql)
+- Steps taken to clean the inconsistencies and non-sensical values are detailed [here](https://github.com/shilpakarumanchi/Avada-e-commerce/blob/f541a30ab36c7882ae310ac77c14eef550c869cc/Avada_issue_log.xlsx).
+- SQL queried used to derive insigths can be found [here](https://github.com/shilpakarumanchi/Avada-e-commerce/blob/471184cb64ad8eb3ade58a3a6c11e3cae75aae50/sql_code.sql)
 
 # Data insights
 ## Sales 
@@ -36,6 +36,8 @@ SQL queried used to derive insigths can be found [here](https://github.com/shilp
 - Among the highest grossing items, 27in 4k gaming monitors, Macbook Air Laptops are the top 2 items contributing to 63% of the total sales revenue. 
 - On the contrary, Bose soundsport headphones, Apple Iphone, Samsung charging cable pack & Samsung webcam are the least grossing products, adding up to a total of 4% of the sales revenue.
 ### Seasonality
+![image](https://github.com/user-attachments/assets/c34a8fe1-0b60-4e48-a93c-0a2b3a254646)
+
 - Within each year, sales have increased during the months of September and December that can be attributed to back to school and holiday seasons.
 - Lowest sales were noticed between February and June and in October, i.e. right after the holidays and back to school seasons. 
 
