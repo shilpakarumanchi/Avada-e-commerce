@@ -32,9 +32,11 @@ The following image provides the Entity Relation Diagram (ERD) of the current da
 ![image](https://github.com/user-attachments/assets/9828cec6-52e3-4d45-8280-78988ddd32ae)
 	
 ### Product line
-- Overall 27in 4k gaming monitors, Apple Airpods, Macbook Air Laptops and Thinkpad Laptops are the highest grossing products, adding up to a total of $xx corresponding to 96% of the sales revenue. 
-- Among the highest grossing items, 27in 4k gaming monitors, Macbook Air Laptops are the top 2 items contributing to 63% of the total sales revenue. 
-- On the contrary, Bose soundsport headphones, Apple Iphone, Samsung charging cable pack & Samsung webcam are the least grossing products, adding up to a total of 4% of the sales revenue.
+![image](https://github.com/user-attachments/assets/512e4d86-d5c6-4d50-9a18-1c9f5db6b5c7)
+
+- Overall 27in 4k gaming monitors, Apple Airpods, Macbook Air Laptops and Thinkpad Laptops are the highest grossing products, adding up to a total of $27M that corresponds to 96% of sales revenue. 
+- Top 2 grossing products include 27in 4k gaming monitors, Macbook Air Laptops, adding up to a total of $17.5M in revenue that corresponds to 63% of total sales revenue. 
+- On the contrary, Bose soundsport headphones, Apple Iphone, Samsung charging cable pack & Samsung webcam are the least grossing products, adding up to a total of $1M in revenue that corresponds to 4% of total sales revenue.
 ### Seasonality
 ![image](https://github.com/user-attachments/assets/c34a8fe1-0b60-4e48-a93c-0a2b3a254646)
 
