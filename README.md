@@ -53,7 +53,7 @@ The following image provides the Entity Relation Diagram (ERD) of the current da
 ## Refunds
 ![refunds](https://github.com/user-attachments/assets/4d637900-0cc5-408d-8bdc-e1fc5c301e24)
 
-- Overall refund rate is around 5%.
+- Since 2019, a total of 5379 products have been refunded that corresponds to a overall refund rate of around 5%.
 - ThinkPad Laptop (12%) and Macbook Air Laptop (11%) have the highest refund rates, while the Apple Airpods Headphones (2,636) and 27in 4K Gaming Monitor (1,444) have the highest number of refunds.
 
 # Recommendations
@@ -66,4 +66,5 @@ Measures should be taken to ship the product on the day of purchase, so that del
 Total sales revenue and AOV of loyalty program customers has been increasing ove the past year, giving positive indications that the loyalty program can be continued.
 ## Refunds
 Overall refund percentage is 5%, indicating that Avada is providing quality products and receiving high customer satisfaction.
-However, there were no refunds in 2022 that needs to be looked into.
+However, measures can be taken to minimize refund rates for Thinkpad Laptops and Macbook Air Laptops - the two products that had high refund rates.
+There were no refunds in 2022 that needs to be looked into.
