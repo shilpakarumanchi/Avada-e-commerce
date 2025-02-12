@@ -51,6 +51,8 @@ The following image provides the Entity Relation Diagram (ERD) of the current da
 - In addition, the AOV is gradually increasing over the years for customers in loyalty program and in 2022 the AOV of loyalty program customers is $245 which is higher than $214, the the AOV of customers not in loyalty program.
   
 ## Refunds
+![refunds](https://github.com/user-attachments/assets/4d637900-0cc5-408d-8bdc-e1fc5c301e24)
+
 - Overall refund rate is around 5%.
 - ThinkPad Laptop (12%) and Macbook Air Laptop (11%) have the highest refund rates, while the Apple Airpods Headphones (2,636) and 27in 4K Gaming Monitor (1,444) have the highest number of refunds.
 
