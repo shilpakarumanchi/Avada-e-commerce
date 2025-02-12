@@ -53,8 +53,8 @@ The following image provides the Entity Relation Diagram (ERD) of the current da
 ## Refunds
 ![refunds](https://github.com/user-attachments/assets/f085e4e0-275c-42c0-a66c-da09db42dee1)
 
-- Since 2019, a total of 5379 products have been refunded that corresponds to a overall refund rate of around 5%.
-- ThinkPad Laptop (12%) and Macbook Air Laptop (11%) have the highest refund rates, while the Apple Airpods Headphones (2,636) and 27in 4K Gaming Monitor (1,444) have the highest number of refunds.
+- Since 2019, a total of 5379 products have been refunded that corresponds to a overall refund rate of 5%.
+- Highest refund rates correspond to ThinkPad Laptop (12%) and Macbook Air Laptop (11%), while the Apple Airpods Headphones (2,636) and 27in 4K Gaming Monitor (1,444) have the highest number of refunds.
 - North America has the highest refund rate (56%), followed by EMEA (27%).
 
 # Recommendations
