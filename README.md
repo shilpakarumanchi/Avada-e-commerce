@@ -55,16 +55,17 @@ The following image provides the Entity Relation Diagram (ERD) of the current da
 
 - Since 2019, a total of 5379 products have been refunded that corresponds to a overall refund rate of around 5%.
 - ThinkPad Laptop (12%) and Macbook Air Laptop (11%) have the highest refund rates, while the Apple Airpods Headphones (2,636) and 27in 4K Gaming Monitor (1,444) have the highest number of refunds.
+- North America has the highest refund rate (56%), followed by EMEA (27%).
 
 # Recommendations
 ## Sales 
-Rebates or special offers can be introduced during the lowest sales revenue tiems of the year (i.e. between February and April and during October) inorder to encourage customer spending.
-Inorder to improve operational efficiency Avada can narrowdown the product line to the highest grossing products i.e. 27in 4k gaming monitors, Apple Airpods, Macbook Air Laptops and Thinkpad Laptops.
+- Rebates or special offers can be introduced during the lowest sales revenue tiems of the year (i.e. between February and April and during October) inorder to encourage customer spending.
+- Inorder to improve operational efficiency Avada can narrowdown the product line to the highest grossing products i.e. 27in 4k gaming monitors, Apple Airpods, Macbook Air Laptops and Thinkpad Laptops.
 ## Product Delivery
-Measures should be taken to ship the product on the day of purchase, so that delivery time can be reduced by 25%. 
+- Measures should be taken to ship the product on the day of purchase, so that delivery time can be reduced by 25%. 
 ## Loyalty Program
 Total sales revenue and AOV of loyalty program customers has been increasing ove the past year, giving positive indications that the loyalty program can be continued.
 ## Refunds
-Overall refund percentage is 5%, indicating that Avada is providing quality products and receiving high customer satisfaction.
-However, measures can be taken to minimize refund rates for Thinkpad Laptops and Macbook Air Laptops - the two products that had high refund rates.
-There were no refunds in 2022 that needs to be looked into.
+- Overall refund percentage is 5%, indicating that Avada is providing quality products and receiving high customer satisfaction.
+- However, measures can be taken to minimize refund rates for Thinkpad Laptops and Macbook Air Laptops - the two products that had high refund rates.
+- There were no refunds in 2022 that needs to be looked into.
