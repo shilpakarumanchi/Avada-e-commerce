@@ -46,9 +46,11 @@ The following image provides the Entity Relation Diagram (ERD) of the current da
 ## Product Delivery
 - On average Avada requires 2 days to ship and 8 days to deliver a product. This trend has been consistent across the four global regions and 8 product lines.
 ## Loyalty Program
-- Overall, customers not in loyalty program made sales revenue of $17M, that is 64% higher than customers in loyalty progam with sales revenue of $11M.
-- When we look at the yearly breakdown, in 2019 and 2020 customers in loyalty program contributed up to 11% and 29% of the total sales revenue. However in 2021 and 2022 customers in loyalty program contributed up to 53% and 55% of the total sales revenue, reversing the overall trend.
-- In addition, the AOV is gradually increasing over the years for customers in loyalty program and in 2022 the AOV of loyalty program customers is $245 which is higher than $214, the the AOV of customers not in loyalty program.
+![image](https://github.com/user-attachments/assets/2840b0e0-c9fb-499e-8249-b650d6187c7a)
+
+- Overall, customers not in loyalty program made sales revenue of $17M, that is 61% higher than customers in loyalty progam with sales revenue of $11M.
+- However this trend is not consistent with yearly breakdown. In 2019 and 2020 customers in loyalty program contributed to 11% and 29% of the sales revenue. This trend has reversed in 2021 and 2022 with 53% and 55% of sales revenue from the customers in loyalty program.
+- In addition, the AOV is gradually increasing over the years for customers in loyalty program, and in 2022 the AOV of loyalty program customers ($245) is higher than the AOV of customers not in loyalty program ($214).
   
 ## Refunds
 ![refunds](https://github.com/user-attachments/assets/f085e4e0-275c-42c0-a66c-da09db42dee1)
