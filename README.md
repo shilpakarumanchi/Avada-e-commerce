@@ -37,7 +37,7 @@ The following image provides the Entity Relation Diagram (ERD) of the current da
 - Top 2 grossing products include 27in 4k gaming monitors, Macbook Air Laptops, adding up to a total of $17.5M in revenue that corresponds to 63% of total sales revenue. 
 - On the contrary, Bose soundsport headphones, Apple Iphone, Samsung charging cable pack & Samsung webcam are the least grossing products, adding up to a total of $1M in revenue that corresponds to 4% of total sales revenue.
 ### Seasonality
-![image](https://github.com/user-attachments/assets/c34a8fe1-0b60-4e48-a93c-0a2b3a254646)
+![image](https://github.com/user-attachments/assets/7cafa699-251f-4785-93ea-dab9789f8705)
 
 - Within each year, sales have increased during the months of September and December that can be attributed to back to school and holiday seasons.
 - Lowest sales were noticed between February and June and in October, i.e. right after the holidays and back to school seasons. 
