@@ -32,7 +32,9 @@ The following image provides the Entity Relation Diagram (ERD) of the current da
 
 	
 ### Product line
-![image](https://github.com/user-attachments/assets/512e4d86-d5c6-4d50-9a18-1c9f5db6b5c7)
+		
+![image](https://github.com/user-attachments/assets/079bf009-c3c4-4482-bbda-ffd645e41b0d)
+
 
 - Overall 27in 4k gaming monitors, Apple Airpods, Macbook Air Laptops and Thinkpad Laptops are the highest grossing products, adding up to a total of $27M that corresponds to 96% of sales revenue. 
 - Top 2 grossing products include 27in 4k gaming monitors, Macbook Air Laptops, adding up to a total of $17.5M in revenue that corresponds to 63% of total sales revenue. 
