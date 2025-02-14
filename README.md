@@ -29,7 +29,6 @@ The following image provides the Entity Relation Diagram (ERD) of the current da
 - YOY growth rate was highest for 2020, with 101% increase in the number of orders and 163% increase in sales revenue when compared to 2019.
 - Over all sales have substantially increased from March 2020 till December 2020, possibly due to pandemic spending.
 
-![image](https://github.com/user-attachments/assets/9828cec6-52e3-4d45-8280-78988ddd32ae)
 	
 ### Product line
 ![image](https://github.com/user-attachments/assets/512e4d86-d5c6-4d50-9a18-1c9f5db6b5c7)
