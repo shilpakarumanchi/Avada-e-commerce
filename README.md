@@ -46,6 +46,8 @@ The following image provides the Entity Relation Diagram (ERD) of the current da
 - Lowest sales were noticed between February and June and in October, i.e. right after the holidays and back to school seasons. 
 
 ## Product Delivery
+![image](https://github.com/user-attachments/assets/2b1efde4-8441-49a5-8d6f-0fff856a1e44)
+
 - On average Avada requires 2 days to ship and 8 days to deliver a product. This trend has been consistent across the four global regions and 8 product lines.
 ## Loyalty Program
 ![image](https://github.com/user-attachments/assets/2840b0e0-c9fb-499e-8249-b650d6187c7a)
