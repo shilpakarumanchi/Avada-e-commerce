@@ -22,7 +22,8 @@ The following image provides the Entity Relation Diagram (ERD) of the current da
 
 # Data insights
 ## Sales 
-![image](https://github.com/user-attachments/assets/a7060bcd-98e1-4ee7-b4d9-f8834f15b458)
+![image](https://github.com/user-attachments/assets/ef21a146-3023-4c4b-9c56-6a1f8d6da6d5)
+
 
 - Avada e-commerce has obtained over 108k orders between 2019 and 2022, and generated a total of $28 M in sales revenue, with an AOV of $260.
 - Between 2019 and 2022, 2020 has the highest revenue of $10M with an AOV of $300 followed by 2021 with 9M in revenue and an AOV of $255. However the number of orders were higher in 2021 with 35k followed by 2020 with 33k.
