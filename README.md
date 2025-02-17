@@ -80,7 +80,7 @@ Total sales revenue and AOV of loyalty program customers has been increasing ove
 - However, measures can be taken to minimize refund rates for Thinkpad Laptops and Macbook Air Laptops - the two products that had high refund rates.
 - There were no refunds in 2022 that needs to be looked into.
 
-## ERD
+## Entity Relationship Diagram (ERD)
 The following image provides the Entity Relation Diagram (ERD) of the current database.
 ![ERD](https://github.com/user-attachments/assets/eb9bdbdc-5ea5-451a-8a98-cbcb33d1ef6c)
 
