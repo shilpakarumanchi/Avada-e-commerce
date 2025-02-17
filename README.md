@@ -9,21 +9,23 @@ This project provides insights and recommendations on the following areas:
 2. Product performance: Market impact of individual product lines.
 3. Operational effectiveness: Asessment of product delivery times across the product line and across the globe.
 4. Marketting efforts: Assessment of effectiveness of the loyalty program that has been inititated to improve sales and its future.
-5. Refinds: Refund rates, Highly refunded items, AOV.
+5. Refunds: Refund rates, Highly refunded items, AOV.
 
-## ERD
-The following image provides the Entity Relation Diagram (ERD) of the current database.
-
-![Image ALT](https://github.com/shilpakarumanchi/Avada-e-commerce/blob/cc68913111f297ffdfe4c47ef0bf36e37101e2fd/ERD.png)
+# Tools
+Excel
+Sql
+Tableau
 
 # Data processing
+-Original dataset can be found [here]
 - Steps taken to clean the inconsistencies and non-sensical values are detailed [here](https://github.com/shilpakarumanchi/Avada-e-commerce/blob/f541a30ab36c7882ae310ac77c14eef550c869cc/Avada_issue_log.xlsx).
-- SQL queried used to derive insigths can be found [here](https://github.com/shilpakarumanchi/Avada-e-commerce/blob/471184cb64ad8eb3ade58a3a6c11e3cae75aae50/sql_code.sql)
+- SQL queries used to derive insigths can be found [here](https://github.com/shilpakarumanchi/Avada-e-commerce/blob/471184cb64ad8eb3ade58a3a6c11e3cae75aae50/sql_code.sql)
+
+# Executive Summary
 
 # Data insights
 ## Sales 
 ![image](https://github.com/user-attachments/assets/ef21a146-3023-4c4b-9c56-6a1f8d6da6d5)
-
 
 - Avada e-commerce has obtained over 108k orders between 2019 and 2022, and generated a total of $28 M in sales revenue, with an AOV of $260.
 - Between 2019 and 2022, 2020 has the highest revenue of $10M with an AOV of $300 followed by 2021 with 9M in revenue and an AOV of $255. However the number of orders were higher in 2021 with 35k followed by 2020 with 33k.
@@ -34,7 +36,6 @@ The following image provides the Entity Relation Diagram (ERD) of the current da
 ### Product line
 		
 ![image](https://github.com/user-attachments/assets/079bf009-c3c4-4482-bbda-ffd645e41b0d)
-
 
 - Overall 27in 4k gaming monitors, Apple Airpods, Macbook Air Laptops and Thinkpad Laptops are the highest grossing products, adding up to a total of $27M that corresponds to 96% of sales revenue. 
 - Top 2 grossing products include 27in 4k gaming monitors, Macbook Air Laptops, adding up to a total of $17.5M in revenue that corresponds to 63% of total sales revenue. 
@@ -75,3 +76,8 @@ Total sales revenue and AOV of loyalty program customers has been increasing ove
 - Overall refund percentage is 5%, indicating that Avada is providing quality products and receiving high customer satisfaction.
 - However, measures can be taken to minimize refund rates for Thinkpad Laptops and Macbook Air Laptops - the two products that had high refund rates.
 - There were no refunds in 2022 that needs to be looked into.
+
+## ERD
+The following image provides the Entity Relation Diagram (ERD) of the current database.
+![ERD](https://github.com/user-attachments/assets/eb9bdbdc-5ea5-451a-8a98-cbcb33d1ef6c)
+
