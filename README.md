@@ -38,8 +38,7 @@ This project provides insights and recommendations on the following areas:
 - Within each year, sales have increased during the months of September and December that can be attributed to back to school and holiday seasons.
 - Lowest sales were noticed between February and June and in October, i.e. right after the holidays and back to school seasons. 
 ### Product line
-		
-![image](https://github.com/user-attachments/assets/079bf009-c3c4-4482-bbda-ffd645e41b0d)
+![image](https://github.com/user-attachments/assets/64e894d4-80ac-4a4f-8f9d-07eb1a6d7676)
 
 - Overall 27in 4k gaming monitors, Apple Airpods, Macbook Air Laptops and Thinkpad Laptops are the highest grossing products, adding up to a total of $27M that corresponds to 96% of sales revenue. 
 - Top 2 grossing products include 27in 4k gaming monitors, Macbook Air Laptops, adding up to a total of $17.5M in revenue that corresponds to 63% of total sales revenue. 
