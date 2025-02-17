@@ -52,7 +52,9 @@ This project provides insights and recommendations on the following areas:
 - However, the shipping time for the Samsung Charging Cable to EMEA increased to 9 days, while the shipping time for the Apple AirPods headphones in NA was 6 days.
 - As a result, the delivery times for these products in EMEA and NA were extended to 15 and 11 days, respectively.
 ## Loyalty Program
-![image](https://github.com/user-attachments/assets/2840b0e0-c9fb-499e-8249-b650d6187c7a)
+					
+![image](https://github.com/user-attachments/assets/7f3d3eab-1507-4b27-92cf-bb0167f6e33f)
+
 
 - Overall, customers not in loyalty program made sales revenue of $17M, that is 61% higher than customers in loyalty progam with sales revenue of $11M.
 - However this trend is not consistent with yearly breakdown. In 2019 and 2020 customers in loyalty program contributed to 11% and 29% of the sales revenue. This trend has reversed in 2021 and 2022 with 53% and 55% of sales revenue from the customers in loyalty program.
