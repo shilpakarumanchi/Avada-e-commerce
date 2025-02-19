@@ -57,7 +57,8 @@ This project delivers insights and recommendations in the following areas:
 - As a result, the delivery times for these products in EMEA and NA were extended to 15 and 11 days, respectively.
   
 ## Loyalty Program			
-![image](https://github.com/user-attachments/assets/7f3d3eab-1507-4b27-92cf-bb0167f6e33f)
+![Screenshot 2025-02-19 163658](https://github.com/user-attachments/assets/4d3bbb3b-30a1-4959-8b74-fc371d73dc5a)
+
 - Overall, customers who are not part of the loyalty program generated $17M in sales revenue, which is 61% higher than the $11M in sales revenue from loyalty program members.
 - However, this trend doesn't hold when broken down by year. In 2019 and 2020, loyalty program customers contributed 11% and 29% of the sales revenue, respectively. This trend reversed in 2021 and 2022, with loyalty program customers accounting for 53% and 55% of the sales revenue.
 - Additionally, the Average Order Value (AOV) for loyalty program customers has been steadily increasing over the years. By 2022, the AOV for loyalty program members ($245) surpassed that of non-loyalty program customers ($214).
