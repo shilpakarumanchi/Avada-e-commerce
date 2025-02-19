@@ -61,7 +61,7 @@ This project provides insights and recommendations on the following areas:
 - In addition, the AOV is gradually increasing over the years for customers in loyalty program, and in 2022 the AOV of loyalty program customers ($245) is higher than the AOV of customers not in loyalty program ($214).
   
 ## Refunds
-![Screenshot 2025-02-18 193015](https://github.com/user-attachments/assets/eed208bd-d03a-492d-a078-5d9c06a3aebb)
+![Screenshot 2025-02-19 124221](https://github.com/user-attachments/assets/fd33f78a-f8d0-4686-a7f2-2e1a11815d82)
 
 
 - Since 2019, a total of 5379 products have been refunded that corresponds to a overall refund rate of 5%.
