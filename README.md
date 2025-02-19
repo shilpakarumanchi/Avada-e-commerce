@@ -64,9 +64,11 @@ This project provides insights and recommendations on the following areas:
 ![Screenshot 2025-02-19 124221](https://github.com/user-attachments/assets/fd33f78a-f8d0-4686-a7f2-2e1a11815d82)
 
 
-- Since 2019, a total of 5379 products have been refunded that corresponds to a overall refund rate of 5%.
-- Highest refund rates correspond to ThinkPad Laptop (12%) and Macbook Air Laptop (11%), while the Apple Airpods Headphones (2,636) and 27in 4K Gaming Monitor (1,444) have the highest number of refunds.
-- North America has the highest refund rate (56%), followed by EMEA (27%).
+- Since 2019, a total of 5,379 products have been refunded, resulting in an overall refund rate of 5%.
+- The highest refund rates are seen with the ThinkPad Laptop (12%) and MacBook Air Laptop (11%), while the products with the most refunds are the Apple AirPods Headphones (2,636) and the 27-inch 4K Gaming Monitor (1,444).
+- Among the refunded items, North America has the highest refund rate at 56%, followed by EMEA with 27%.
+- Refunds peaked in 2020 and the first half of 2021, likely correlating with the surge in sales during that period.
+- There have been no refunds since July 2021, which requires further investigation.
 
 # Recommendations
 ## Sales 
@@ -77,9 +79,15 @@ This project provides insights and recommendations on the following areas:
 ## Loyalty Program
 Total sales revenue and AOV of loyalty program customers has been increasing ove the past year, giving positive indications that the loyalty program can be continued.
 ## Refunds
-- Overall refund percentage is 5%, indicating that Avada is providing quality products and receiving high customer satisfaction.
-- However, measures can be taken to minimize refund rates for Thinkpad Laptops and Macbook Air Laptops - the two products that had high refund rates.
-- There were no refunds in 2022 that needs to be looked into.
+**Investigate the high refund rates for ThinkPad Laptops and MacBook Air Laptops**: Check if there are consistent issues with these models (e.g., hardware defects, software issues, compatibility problems) and whether these problems are being addressed in newer models or firmware updates.
+
+**Analyze the reasons for high refund numbers of AirPods and Gaming Monitors**: Consider whether the high volume of refunds is due to quality issues, product recalls, or customer expectations that are not being met.
+
+**Focus on North American Refunds**: Explore if there's a specific region or customer base in North America where refunds are particularly high, and whether there are factors related to distribution channels, product usage, or customer service that might be contributing to this trend.
+
+**Examine the sudden drop in refunds after July 2021**:Verify if this is due to improved product quality or operational changes. Ensure there is no reporting error or data anomaly causing this gap.
+
+
 
 ## Entity Relationship Diagram (ERD)
 The following image provides the Entity Relation Diagram (ERD) of the current database.
