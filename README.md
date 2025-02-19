@@ -28,16 +28,18 @@ This project delivers insights and recommendations in the following areas:
 # Deep dive into insights
 ## Sales 
 ![image](https://github.com/user-attachments/assets/89f311cd-918d-4df8-920d-b537be04c79b)
-
 - Avada e-commerce processed over 108K orders from 2019 to 2022, generating a total of $28M in sales revenue, with an average order value (AOV) of $260.
 - In terms of revenue, 2020 saw the highest at $10M, with an AOV of $300, followed by 2021 with $9M in revenue and an AOV of $255. However, the number of orders was higher in 2021 at 35K, compared to 33K in 2020.
-- The year-over-year (YOY) growth rate was the highest in 2020, with a 101% increase in the number of orders and a 163% increase in sales revenue.
+- - The year-over-year (YOY) growth rate was the highest in 2020, with a 101% increase in the number of orders and a 163% increase in sales revenue.
 - Overall, sales saw a significant boost from March to December 2020, likely driven by pandemic-related spending.
+- Lowest sales revenue was noticed during 2019 ($3.8M), followed by 2022 ($4.9M).
+- 
 ### Seasonality
 ![Screenshot 2025-02-19 132918](https://github.com/user-attachments/assets/e832cee3-76d7-420b-b830-13d217a7d1d8)
-
 - Sales consistently increased in September and December each year, likely due to the back-to-school and holiday shopping seasons.
-- The lowest sales were observed between February and June, as well as in October, typically occurring right after the holiday and back-to-school periods. 
+- The lowest sales were observed between February and June, as well as in October, typically occurring right after the holiday and back-to-school periods.
+- However, this trend was less noticeable in 2022, as there was an overall decline in sales, with the final quarter of the year seeing sales drop below 2019 levels.
+- 
 ### Product line
 ![image](https://github.com/user-attachments/assets/64e894d4-80ac-4a4f-8f9d-07eb1a6d7676)
 - The highest-grossing products overall are the 27-inch 4K gaming monitors, Apple AirPods, MacBook Air laptops, and ThinkPad laptops, which together account for $27M in revenue, representing 96% of total sales.
@@ -46,12 +48,13 @@ This project delivers insights and recommendations in the following areas:
 - Laptops have the highest Average Order Value (AOV), with the MacBook Air laptop at $1,500, followed by the ThinkPad laptop at $1,100. The lowest AOV is seen with the Samsung charging cable pack, priced at $20.
 - Apple AirPods are the most frequently purchased items, with a total of 48K units sold, representing 45% of all orders, followed by the 27-inch 4K gaming monitor with 23K units sold, making up 22% of total orders.
 - Bose soundsport headphones are the least purchased items with a total of 27 units sold, representing 0.02% of all orders, followed by Apple iphone with 288 units sold, making up 0.3% of total orders.
+  
 ## Product Delivery
 ![delivery](https://github.com/user-attachments/assets/35689546-d8fb-4e7f-a5f4-d62cd5f46bad)
 - On average, Avada takes 2 days to ship and 8 days to deliver a product, a trend that has remained consistent across all four global regions and eight product lines.
 - However, the shipping time for the Samsung Charging Cable to EMEA increased to 9 days, while the shipping time for the Apple AirPods headphones in NA was 6 days.
 - As a result, the delivery times for these products in EMEA and NA were extended to 15 and 11 days, respectively.
-- 
+  
 ## Loyalty Program			
 ![image](https://github.com/user-attachments/assets/7f3d3eab-1507-4b27-92cf-bb0167f6e33f)
 - Overall, customers who are not part of the loyalty program generated $17M in sales revenue, which is 61% higher than the $11M in sales revenue from loyalty program members.
@@ -94,7 +97,6 @@ This project delivers insights and recommendations in the following areas:
 **Focus on North American Refunds**: Explore if there's a specific region or customer base in North America where refunds are particularly high, and whether there are factors related to distribution channels, product usage, or customer service that might be contributing to this trend.
 
 **Examine the sudden drop in refunds after July 2021**:Verify if this is due to improved product quality or operational changes. Ensure there is no reporting error or data anomaly causing this gap.
-
 
 
 ## Entity Relationship Diagram (ERD)
