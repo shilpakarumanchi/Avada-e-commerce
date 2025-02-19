@@ -35,8 +35,8 @@ This project provides insights and recommendations on the following areas:
 - Over all sales have substantially increased from March 2020 till December 2020, possibly due to pandemic spending.
 
 ### Seasonality
-![image](https://github.com/user-attachments/assets/7cafa699-251f-4785-93ea-dab9789f8705)
-![Screenshot 2025-02-19 132805](https://github.com/user-attachments/assets/79bc640b-5fd7-4233-bc1f-5f3031bac852)
+![Screenshot 2025-02-19 132918](https://github.com/user-attachments/assets/e832cee3-76d7-420b-b830-13d217a7d1d8)
+
 
 
 - Within each year, sales have increased during the months of September and December that can be attributed to back to school and holiday seasons.
