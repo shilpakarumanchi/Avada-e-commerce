@@ -42,7 +42,8 @@ This project delivers insights and recommendations in the following areas:
 - However, this trend was less noticeable in 2022, as there was an overall decline in sales, with the final quarter of the year seeing sales drop below 2019 levels.
   
 ### Product line
-![image](https://github.com/user-attachments/assets/64e894d4-80ac-4a4f-8f9d-07eb1a6d7676)
+![Screenshot 2025-02-19 164533](https://github.com/user-attachments/assets/62fbfe72-38dc-4bd0-8787-e371fd0caea3)
+
 - The highest-grossing products overall are the 27-inch 4K gaming monitors, Apple AirPods, MacBook Air laptops, and ThinkPad laptops, which together account for $27M in revenue, representing 96% of total sales.
 - The top two revenue-generating products are the 27-inch 4K gaming monitors and MacBook Air laptops, which together contribute $17.5M in revenue, making up 63% of total sales.
 - On the other hand, the least grossing products include the Bose SoundSport headphones, Apple iPhone, Samsung charging cable pack, and Samsung webcam, which collectively generate $1M in revenue, or 4% of total sales.
