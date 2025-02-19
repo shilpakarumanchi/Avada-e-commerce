@@ -43,13 +43,12 @@ This project provides insights and recommendations on the following areas:
 - Lowest sales were noticed between February and June and in October, i.e. right after the holidays and back to school seasons. 
 ### Product line
 ![image](https://github.com/user-attachments/assets/64e894d4-80ac-4a4f-8f9d-07eb1a6d7676)
-
-- Overall 27in 4k gaming monitors, Apple Airpods, Macbook Air Laptops and Thinkpad Laptops are the highest grossing products, adding up to a total of $27M that corresponds to 96% of sales revenue. 
-- Top 2 grossing products include 27in 4k gaming monitors, Macbook Air Laptops, adding up to a total of $17.5M in revenue that corresponds to 63% of total sales revenue. 
-- On the contrary, Bose soundsport headphones, Apple Iphone, Samsung charging cable pack & Samsung webcam are the least grossing products, adding up to a total of $1M in revenue that corresponds to 4% of total sales revenue.
-- Laptops have the highest AOV with Macbook Air Laptop ($1,500), followed by Thinkpad laptop ($1,100). Lowest AOV is noticed forSamsung Charging cable pack at $20.
-- Apple airpods are the most frequently purchased products with a toal of 48k items being sold corresponding to 45% of total orders, followed by 27in 4K gaming monitor with 23k items sold corresponding to 22% of total orders.
-- 
+- The highest-grossing products overall are the 27-inch 4K gaming monitors, Apple AirPods, MacBook Air laptops, and ThinkPad laptops, which together account for $27M in revenue, representing 96% of total sales.
+- The top two revenue-generating products are the 27-inch 4K gaming monitors and MacBook Air laptops, which together contribute $17.5M in revenue, making up 63% of total sales.
+- On the other hand, the least grossing products include the Bose SoundSport headphones, Apple iPhone, Samsung charging cable pack, and Samsung webcam, which collectively generate $1M in revenue, or 4% of total sales.
+- Laptops have the highest Average Order Value (AOV), with the MacBook Air laptop at $1,500, followed by the ThinkPad laptop at $1,100. The lowest AOV is seen with the Samsung charging cable pack, priced at $20.
+- Apple AirPods are the most frequently purchased items, with a total of 48K units sold, representing 45% of all orders, followed by the 27-inch 4K gaming monitor with 23K units sold, making up 22% of total orders.
+- Bose soundsport headphones are the least purchased items with a total of 27 units sold, representing 0.02% of all orders, followed by Apple iphone with 288 units sold, making up 0.3% of total orders.
 ## Product Delivery
 ![delivery](https://github.com/user-attachments/assets/35689546-d8fb-4e7f-a5f4-d62cd5f46bad)
 - On average, Avada takes 2 days to ship and 8 days to deliver a product, a trend that has remained consistent across all four global regions and eight product lines.
@@ -72,6 +71,16 @@ This project provides insights and recommendations on the following areas:
 
 # Recommendations
 ## Sales 
+**Maximize the Success of High-Grossing Products**: Since the 27-inch 4K gaming monitors, Apple AirPods, MacBook Air laptops, and ThinkPad laptops account for a significant portion of the revenue (96%), continue to prioritize these items in your product offerings. Highlight them in promotions, ensure sufficient stock, and consider seasonal discounts or limited-time offers to keep up with demand.
+
+**Revitalize Low-Grossing Products**: Products like the Bose SoundSport headphones, Apple iPhone, Samsung charging cable pack, and Samsung webcam, which make up only 4% of the sales. Assess the reasons behind their low sales (e.g., lack of visibility, consumer demand, or quality concerns) and strategize on how to boost their performance by discounts, improved marketing, or product repositioning.
+
+**Leverage High AOV Products**: Since laptops have the highest AOV, emphasize their premium status and the value they offer. Consider offering financing or payment plans for customers to make these higher-priced products more accessible.
+
+**Capitalize on the most frequently purchased products**: Create loyalty incentives for repeat purchases or offer exclusive accessories to AirPods buyers. Additionally, explore targeted advertising to reach potential customers who may still be considering their first purchase.
+
+**Improve the Sales of underperforming items**: The Bose SoundSport headphones and Apple iPhone have the lowest purchase frequency, and may need further analysis to understand customer preferences. It might be useful to assess whether pricing adjustments, new marketing strategies, or promotional efforts are needed to boost their visibility and appeal.
+
 - Rebates or special offers can be introduced during the lowest sales revenue tiems of the year (i.e. between February and April and during October) inorder to encourage customer spending.
 - Inorder to improve operational efficiency Avada can narrowdown the product line to the highest grossing products i.e. 27in 4k gaming monitors, Apple Airpods, Macbook Air Laptops and Thinkpad Laptops.
 ## Product Delivery
