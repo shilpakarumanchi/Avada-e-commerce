@@ -30,17 +30,17 @@ This project delivers insights and recommendations in the following areas:
 ![image](https://github.com/user-attachments/assets/89f311cd-918d-4df8-920d-b537be04c79b)
 - Avada e-commerce processed over 108K orders from 2019 to 2022, generating a total of $28M in sales revenue, with an average order value (AOV) of $260.
 - In terms of revenue, 2020 saw the highest at $10M, with an AOV of $300, followed by 2021 with $9M in revenue and an AOV of $255. However, the number of orders was higher in 2021 at 35K, compared to 33K in 2020.
-- - The year-over-year (YOY) growth rate was the highest in 2020, with a 101% increase in the number of orders and a 163% increase in sales revenue.
+- The year-over-year (YOY) growth rate was the highest in 2020, with a 101% increase in the number of orders and a 163% increase in sales revenue.
 - Overall, sales saw a significant boost from March to December 2020, likely driven by pandemic-related spending.
 - Lowest sales revenue was noticed during 2019 ($3.8M), followed by 2022 ($4.9M).
-- 
+  
 ### Seasonality
 ![Screenshot 2025-02-19 163236](https://github.com/user-attachments/assets/3c044eb2-aa3f-4bb6-952e-81f48b8be917)
 
 - Sales consistently increased in September and December each year, likely due to the back-to-school and holiday shopping seasons.
 - The lowest sales were observed between February and June, as well as in October, typically occurring right after the holiday and back-to-school periods.
 - However, this trend was less noticeable in 2022, as there was an overall decline in sales, with the final quarter of the year seeing sales drop below 2019 levels.
-- 
+  
 ### Product line
 ![image](https://github.com/user-attachments/assets/64e894d4-80ac-4a4f-8f9d-07eb1a6d7676)
 - The highest-grossing products overall are the 27-inch 4K gaming monitors, Apple AirPods, MacBook Air laptops, and ThinkPad laptops, which together account for $27M in revenue, representing 96% of total sales.
@@ -83,7 +83,8 @@ This project delivers insights and recommendations in the following areas:
 **Improve the Sales of underperforming items & off-Peak months**: The Bose SoundSport headphones and Apple iPhone have the lowest purchase frequency, and may need further analysis to understand customer preferences. It might be useful to assess whether pricing adjustments, new marketing strategies, or promotional efforts are needed to boost their visibility and appeal. Given that sales dip between February and June, as well as in October, consider introducing promotions, limited-time offers, or new product launches during these months to stimulate interest and maintain sales momentum. 
 
 ## Product Delivery
-- Measures should be taken to ship the product on the day of purchase, so that delivery time can be reduced by 25%. 
+- Measures should be taken to ship the product on the day of purchase, so that delivery time can be reduced by 25%.
+  
 ## Loyalty Program
 **Focus on Loyalty Program Expansion**: Given that loyalty program customers are now contributing a larger share of sales revenue (53% in 2021 and 55% in 2022), it would be beneficial to further invest in the loyalty program. This could include promoting exclusive benefits, offering personalized incentives, or increasing customer engagement to attract more non-loyalty customers to join the program.
 
