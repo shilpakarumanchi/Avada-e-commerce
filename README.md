@@ -27,22 +27,17 @@ This project delivers insights and recommendations in the following areas:
 
 # Deep dive into insights
 ## Sales 
-	
 ![image](https://github.com/user-attachments/assets/89f311cd-918d-4df8-920d-b537be04c79b)
 
-
-- Avada e-commerce has obtained over 108k orders between 2019 and 2022, and generated a total of $28 M in sales revenue, with an AOV of $260.
-- Between 2019 and 2022, 2020 has the highest revenue of $10M with an AOV of $300 followed by 2021 with 9M in revenue and an AOV of $255. However the number of orders were higher in 2021 with 35k followed by 2020 with 33k.
-- YOY growth rate was highest for 2020, with 101% increase in the number of orders and 163% increase in sales revenue.
-- Over all sales have substantially increased from March 2020 till December 2020, possibly due to pandemic spending.
-
+- Avada e-commerce processed over 108K orders from 2019 to 2022, generating a total of $28M in sales revenue, with an average order value (AOV) of $260.
+- In terms of revenue, 2020 saw the highest at $10M, with an AOV of $300, followed by 2021 with $9M in revenue and an AOV of $255. However, the number of orders was higher in 2021 at 35K, compared to 33K in 2020.
+- The year-over-year (YOY) growth rate was the highest in 2020, with a 101% increase in the number of orders and a 163% increase in sales revenue.
+- Overall, sales saw a significant boost from March to December 2020, likely driven by pandemic-related spending.
 ### Seasonality
 ![Screenshot 2025-02-19 132918](https://github.com/user-attachments/assets/e832cee3-76d7-420b-b830-13d217a7d1d8)
 
-
-
-- Within each year, sales have increased during the months of September and December that can be attributed to back to school and holiday seasons.
-- Lowest sales were noticed between February and June and in October, i.e. right after the holidays and back to school seasons. 
+- Sales consistently increased in September and December each year, likely due to the back-to-school and holiday shopping seasons.
+- The lowest sales were observed between February and June, as well as in October, typically occurring right after the holiday and back-to-school periods. 
 ### Product line
 ![image](https://github.com/user-attachments/assets/64e894d4-80ac-4a4f-8f9d-07eb1a6d7676)
 - The highest-grossing products overall are the 27-inch 4K gaming monitors, Apple AirPods, MacBook Air laptops, and ThinkPad laptops, which together account for $27M in revenue, representing 96% of total sales.
@@ -73,18 +68,14 @@ This project delivers insights and recommendations in the following areas:
 
 # Recommendations
 ## Sales 
-**Maximize the Success of High-Grossing Products**: Since the 27-inch 4K gaming monitors, Apple AirPods, MacBook Air laptops, and ThinkPad laptops account for a significant portion of the revenue (96%), continue to prioritize these items in your product offerings. Highlight them in promotions, ensure sufficient stock, and consider seasonal discounts or limited-time offers to keep up with demand.
+**Maximize the Success of High-Grossing Products, most frequently purchased products & Peak Sales Periods**: Since the 27-inch 4K gaming monitors, Apple AirPods, MacBook Air laptops, and ThinkPad laptops account for a significant portion of the revenue (96%), continue to prioritize these items in your product offerings. Highlight them in promotions, ensure sufficient stock, and consider seasonal discounts (between  September and December) or limited-time offers & create loyalty incentives.
 
 **Revitalize Low-Grossing Products**: Products like the Bose SoundSport headphones, Apple iPhone, Samsung charging cable pack, and Samsung webcam, which make up only 4% of the sales. Assess the reasons behind their low sales (e.g., lack of visibility, consumer demand, or quality concerns) and strategize on how to boost their performance by discounts, improved marketing, or product repositioning.
 
 **Leverage High AOV Products**: Since laptops have the highest AOV, emphasize their premium status and the value they offer. Consider offering financing or payment plans for customers to make these higher-priced products more accessible.
 
-**Capitalize on the most frequently purchased products**: Create loyalty incentives for repeat purchases or offer exclusive accessories to AirPods buyers. Additionally, explore targeted advertising to reach potential customers who may still be considering their first purchase.
+**Improve the Sales of underperforming items & off-Peak months**: The Bose SoundSport headphones and Apple iPhone have the lowest purchase frequency, and may need further analysis to understand customer preferences. It might be useful to assess whether pricing adjustments, new marketing strategies, or promotional efforts are needed to boost their visibility and appeal. Given that sales dip between February and June, as well as in October, consider introducing promotions, limited-time offers, or new product launches during these months to stimulate interest and maintain sales momentum. 
 
-**Improve the Sales of underperforming items**: The Bose SoundSport headphones and Apple iPhone have the lowest purchase frequency, and may need further analysis to understand customer preferences. It might be useful to assess whether pricing adjustments, new marketing strategies, or promotional efforts are needed to boost their visibility and appeal.
-
-- Rebates or special offers can be introduced during the lowest sales revenue tiems of the year (i.e. between February and April and during October) inorder to encourage customer spending.
-- Inorder to improve operational efficiency Avada can narrowdown the product line to the highest grossing products i.e. 27in 4k gaming monitors, Apple Airpods, Macbook Air Laptops and Thinkpad Laptops.
 ## Product Delivery
 - Measures should be taken to ship the product on the day of purchase, so that delivery time can be reduced by 25%. 
 ## Loyalty Program
