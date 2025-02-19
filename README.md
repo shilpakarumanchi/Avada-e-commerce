@@ -36,6 +36,8 @@ This project provides insights and recommendations on the following areas:
 
 ### Seasonality
 ![image](https://github.com/user-attachments/assets/7cafa699-251f-4785-93ea-dab9789f8705)
+![Screenshot 2025-02-19 132805](https://github.com/user-attachments/assets/79bc640b-5fd7-4233-bc1f-5f3031bac852)
+
 
 - Within each year, sales have increased during the months of September and December that can be attributed to back to school and holiday seasons.
 - Lowest sales were noticed between February and June and in October, i.e. right after the holidays and back to school seasons. 
@@ -45,25 +47,23 @@ This project provides insights and recommendations on the following areas:
 - Overall 27in 4k gaming monitors, Apple Airpods, Macbook Air Laptops and Thinkpad Laptops are the highest grossing products, adding up to a total of $27M that corresponds to 96% of sales revenue. 
 - Top 2 grossing products include 27in 4k gaming monitors, Macbook Air Laptops, adding up to a total of $17.5M in revenue that corresponds to 63% of total sales revenue. 
 - On the contrary, Bose soundsport headphones, Apple Iphone, Samsung charging cable pack & Samsung webcam are the least grossing products, adding up to a total of $1M in revenue that corresponds to 4% of total sales revenue.
+- Laptops have the highest AOV with Macbook Air Laptop ($1,500), followed by Thinkpad laptop ($1,100). Lowest AOV is noticed forSamsung Charging cable pack at $20.
+- Apple airpods are the most frequently purchased products with a toal of 48k items being sold corresponding to 45% of total orders, followed by 27in 4K gaming monitor with 23k items sold corresponding to 22% of total orders.
+- 
 ## Product Delivery
 ![delivery](https://github.com/user-attachments/assets/35689546-d8fb-4e7f-a5f4-d62cd5f46bad)
-
 - On average, Avada takes 2 days to ship and 8 days to deliver a product, a trend that has remained consistent across all four global regions and eight product lines.
 - However, the shipping time for the Samsung Charging Cable to EMEA increased to 9 days, while the shipping time for the Apple AirPods headphones in NA was 6 days.
 - As a result, the delivery times for these products in EMEA and NA were extended to 15 and 11 days, respectively.
-## Loyalty Program
-					
+- 
+## Loyalty Program			
 ![image](https://github.com/user-attachments/assets/7f3d3eab-1507-4b27-92cf-bb0167f6e33f)
-
-
 - Overall, customers who are not part of the loyalty program generated $17M in sales revenue, which is 61% higher than the $11M in sales revenue from loyalty program members.
 - However, this trend doesn't hold when broken down by year. In 2019 and 2020, loyalty program customers contributed 11% and 29% of the sales revenue, respectively. This trend reversed in 2021 and 2022, with loyalty program customers accounting for 53% and 55% of the sales revenue.
 - Additionally, the Average Order Value (AOV) for loyalty program customers has been steadily increasing over the years. By 2022, the AOV for loyalty program members ($245) surpassed that of non-loyalty program customers ($214).
   
 ## Refunds
 ![Screenshot 2025-02-19 124221](https://github.com/user-attachments/assets/fd33f78a-f8d0-4686-a7f2-2e1a11815d82)
-
-
 - Since 2019, a total of 5,379 products have been refunded, resulting in an overall refund rate of 5%.
 - The highest refund rates are seen with the ThinkPad Laptop (12%) and MacBook Air Laptop (11%), while the products with the most refunds are the Apple AirPods Headphones (2,636) and the 27-inch 4K Gaming Monitor (1,444).
 - Among the refunded items, North America has the highest refund rate at 56%, followed by EMEA with 27%.
