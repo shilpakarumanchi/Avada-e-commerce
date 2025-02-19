@@ -52,7 +52,7 @@ This project delivers insights and recommendations in the following areas:
 - Bose soundsport headphones are the least purchased items with a total of 27 units sold, representing 0.02% of all orders, followed by Apple iphone with 288 units sold, making up 0.3% of total orders.
   
 ## Product Delivery
-![Screenshot 2025-02-19 164037](https://github.com/user-attachments/assets/ebf77036-da7a-43ec-b1d3-e8e825619e51)
+![Screenshot 2025-02-19 164920](https://github.com/user-attachments/assets/c7a14249-8ed4-4c69-bab6-8c0d9df4281a)
 
 - On average, Avada takes 2 days to ship and 8 days to deliver a product, a trend that has remained consistent across all four global regions and eight product lines.
 - However, the shipping time for the Samsung Charging Cable to EMEA increased to 9 days, while the shipping time for the Apple AirPods headphones in NA was 6 days.
