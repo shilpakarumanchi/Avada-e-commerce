@@ -35,7 +35,8 @@ This project delivers insights and recommendations in the following areas:
 - Lowest sales revenue was noticed during 2019 ($3.8M), followed by 2022 ($4.9M).
 - 
 ### Seasonality
-![Screenshot 2025-02-19 132918](https://github.com/user-attachments/assets/e832cee3-76d7-420b-b830-13d217a7d1d8)
+![Screenshot 2025-02-19 163236](https://github.com/user-attachments/assets/3c044eb2-aa3f-4bb6-952e-81f48b8be917)
+
 - Sales consistently increased in September and December each year, likely due to the back-to-school and holiday shopping seasons.
 - The lowest sales were observed between February and June, as well as in October, typically occurring right after the holiday and back-to-school periods.
 - However, this trend was less noticeable in 2022, as there was an overall decline in sales, with the final quarter of the year seeing sales drop below 2019 levels.
