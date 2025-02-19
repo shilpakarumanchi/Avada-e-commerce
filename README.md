@@ -1,15 +1,15 @@
 
 # Overview
 
-Avada is an e-commerce platform established in 2018, selling the most popular consumer electronics and accessories at a global scale.
-The company has >100k records of data on sales, product offerings, marketting efforts and operational effectiveness. 
-A comprehenssive analysis has been performed on this data inorder to provide insights to improve Avada's commercial performance.
-This project provides insights and recommendations on the following areas:
-1. Sales Trends: Month Over Month (MOM) and Year Over Year (YOY) growth rates, Average Order Value (AOV) & Number of orders.
-2. Product performance: Market impact of individual product lines.
-3. Operational effectiveness: Asessment of product delivery times across the product line and across the globe.
-4. Marketting efforts: Assessment of effectiveness of the loyalty program that has been inititated to improve sales and its future.
-5. Refunds: Refund rates, Highly refunded items, AOV.
+Avada is an e-commerce platform founded in 2018, offering popular consumer electronics and accessories worldwide. The company holds over 100K records of data related to sales, product offerings, marketing efforts, and operational performance. A thorough analysis of this data has been conducted to provide insights aimed at enhancing Avada's commercial performance.
+
+This project delivers insights and recommendations in the following areas:
+
+1. **Sales Trends**: Month-over-month (MOM) and year-over-year (YOY) growth rates, Average Order Value (AOV), and number of orders.
+2. **Product Performance**: Market impact of individual product lines, and identification of highest and lowest grossing items.
+3. **Operational Effectiveness**: Evaluation of product delivery times across various product lines and regions.
+4. **Marketing Efforts**: Analysis of the effectiveness of the loyalty program introduced to boost sales, along with its future potential.
+5. **Refunds**: Examination of refund rates, highly refunded items, and geographical patterns in refund data.
 
 # Tools
 - Excel
