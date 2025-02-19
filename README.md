@@ -56,9 +56,9 @@ This project provides insights and recommendations on the following areas:
 ![image](https://github.com/user-attachments/assets/7f3d3eab-1507-4b27-92cf-bb0167f6e33f)
 
 
-- Overall, customers not in loyalty program made sales revenue of $17M, that is 61% higher than customers in loyalty progam with sales revenue of $11M.
-- However this trend is not consistent with yearly breakdown. In 2019 and 2020 customers in loyalty program contributed to 11% and 29% of the sales revenue. This trend has reversed in 2021 and 2022 with 53% and 55% of sales revenue from the customers in loyalty program.
-- In addition, the AOV is gradually increasing over the years for customers in loyalty program, and in 2022 the AOV of loyalty program customers ($245) is higher than the AOV of customers not in loyalty program ($214).
+- Overall, customers who are not part of the loyalty program generated $17M in sales revenue, which is 61% higher than the $11M in sales revenue from loyalty program members.
+- However, this trend doesn't hold when broken down by year. In 2019 and 2020, loyalty program customers contributed 11% and 29% of the sales revenue, respectively. This trend reversed in 2021 and 2022, with loyalty program customers accounting for 53% and 55% of the sales revenue.
+- Additionally, the Average Order Value (AOV) for loyalty program customers has been steadily increasing over the years. By 2022, the AOV for loyalty program members ($245) surpassed that of non-loyalty program customers ($214).
   
 ## Refunds
 ![Screenshot 2025-02-19 124221](https://github.com/user-attachments/assets/fd33f78a-f8d0-4686-a7f2-2e1a11815d82)
@@ -77,7 +77,13 @@ This project provides insights and recommendations on the following areas:
 ## Product Delivery
 - Measures should be taken to ship the product on the day of purchase, so that delivery time can be reduced by 25%. 
 ## Loyalty Program
-Total sales revenue and AOV of loyalty program customers has been increasing ove the past year, giving positive indications that the loyalty program can be continued.
+**Focus on Loyalty Program Expansion**: Given that loyalty program customers are now contributing a larger share of sales revenue (53% in 2021 and 55% in 2022), it would be beneficial to further invest in the loyalty program. This could include promoting exclusive benefits, offering personalized incentives, or increasing customer engagement to attract more non-loyalty customers to join the program.
+
+**Leverage Increasing AOV**: Since the AOV for loyalty program customers has been steadily increasing, this indicates that these customers are more likely to spend more per transaction. You could design targeted marketing campaigns to further increase their spending, such as introducing tiered rewards or limited-time offers that encourage larger purchases.
+
+**Analyze Non-Loyalty Customer Segments**: While non-loyalty customers generated higher overall revenue ($17M), this group could be a valuable target for conversion to the loyalty program. Consider strategies to encourage these customers to join, such as offering an attractive signup bonus, highlighting the benefits of the loyalty program, or providing personalized promotions.
+
+**Optimize AOV for Non-Loyalty Customers**: Although the AOV for non-loyalty customers is lower ($214), it's still substantial. Offering incentives like free shipping, bundles, or limited-time discounts could help increase the AOV for this group, potentially bringing them closer in line with loyalty program customers in terms of spending.
 ## Refunds
 **Investigate the high refund rates for ThinkPad Laptops and MacBook Air Laptops**: Check if there are consistent issues with these models (e.g., hardware defects, software issues, compatibility problems) and whether these problems are being addressed in newer models or firmware updates.
 
