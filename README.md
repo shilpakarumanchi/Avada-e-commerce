@@ -17,7 +17,7 @@ This project delivers insights and recommendations in the following areas:
 - Tableau
 
 # Data processing
-- Original dataset can be found [here]
+- Original dataset can be found [here](https://github.com/shilpakarumanchi/Avada-e-commerce/blob/fc0e5f3726e21f50835d5f88f68ca6db9604fb8f/Elist_Data_trimmed.xlsx)
 - Steps taken to clean the inconsistencies and non-sensical values are detailed [here](https://github.com/shilpakarumanchi/Avada-e-commerce/blob/f541a30ab36c7882ae310ac77c14eef550c869cc/Avada_issue_log.xlsx).
 - SQL queries used to derive insigths can be found [here](https://github.com/shilpakarumanchi/Avada-e-commerce/blob/471184cb64ad8eb3ade58a3a6c11e3cae75aae50/sql_code.sql)
 
