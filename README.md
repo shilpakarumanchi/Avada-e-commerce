@@ -22,8 +22,10 @@ This project delivers insights and recommendations in the following areas:
 - SQL queries used to derive insigths can be found [here](https://github.com/shilpakarumanchi/Avada-e-commerce/blob/471184cb64ad8eb3ade58a3a6c11e3cae75aae50/sql_code.sql)
 
 # Executive Summary
+![image](https://github.com/user-attachments/assets/f0948444-957b-470c-b515-a8daacd20907)
 
-# Data insights
+
+# Deep dive into insights
 ## Sales 
 	
 ![image](https://github.com/user-attachments/assets/89f311cd-918d-4df8-920d-b537be04c79b)
@@ -31,7 +33,7 @@ This project delivers insights and recommendations in the following areas:
 
 - Avada e-commerce has obtained over 108k orders between 2019 and 2022, and generated a total of $28 M in sales revenue, with an AOV of $260.
 - Between 2019 and 2022, 2020 has the highest revenue of $10M with an AOV of $300 followed by 2021 with 9M in revenue and an AOV of $255. However the number of orders were higher in 2021 with 35k followed by 2020 with 33k.
-- YOY growth rate was highest for 2020, with 101% increase in the number of orders and 163% increase in sales revenue when compared to 2019.
+- YOY growth rate was highest for 2020, with 101% increase in the number of orders and 163% increase in sales revenue.
 - Over all sales have substantially increased from March 2020 till December 2020, possibly due to pandemic spending.
 
 ### Seasonality
