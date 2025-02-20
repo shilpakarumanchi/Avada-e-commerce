@@ -25,7 +25,7 @@ This project delivers insights and recommendations in the following areas:
 ![image](https://github.com/user-attachments/assets/f0948444-957b-470c-b515-a8daacd20907)
 
 1. **Pandemic-Driven Demand Spike (2020-2021):** Sales of electronics, particularly **27-inch 4K gaming monitors, MacBook Air laptops, Apple AirPods, and iPhones**, saw significant increases during the COVID-19 pandemic. This trend aligns with increased remote work, virtual communication, and home entertainment needs.  
-2. **Peak Sales Periods:** Spikes in sales occurred during key months such as **June, September, and December**, suggesting seasonal demand (possibly influenced by mid-year sales, back-to-school, and holiday shopping).  
+2. **Peak Sales Periods:** Spikes in sales occurred during key months such as **January, September, and December**, suggesting seasonal demand (possibly influenced by mid-year sales, back-to-school, and holiday shopping).  
 3. **Declining Trend Post-2021:** After peaking in 2021, sales began to decline throughout 2022 aligning with 2019 sales by the last quarter of 2022, indicating a potential market saturation or reduced consumer demand post-pandemic.  
 4. **Lower-Volume Products:** Items like **Samsung Charging Cable Packs and Webcams** remained relatively stable in sales without major fluctuations, likely reflecting consistent but lower demand.  
 
