@@ -59,11 +59,11 @@ This project delivers insights and recommendations in the following areas:
 ## Product Delivery
 ![Screenshot 2025-02-20 095710](https://github.com/user-attachments/assets/629cbe47-17b3-4274-88d9-8e374a72e635)
 
-- On average, Avada takes 2 days to ship and 8 days to deliver a product, a trend that has remained consistent across all four global regions and eight product lines with some anamolies.
-- Two items had very long shipping times then the rest of the products across all regions. This includes: Samsung Charging Cable in EMEA (9 days) and Apple AirPods headphones in NA (6 days).
-- As a result, average delivery times for these products in EMEA and NA were extended to 15 and 11 days, respectively.
-- Bose soundsport headphones on the other hand had slightly lower shipping times (1 day) in APAC and LATAM.
-- Taking average incuding anamolies has increased the overall shipping time to 3 days in EMEA and 4 days in NA and delivery time to 9 days.
+- On average, Avada takes 2 days to ship and 8 days to deliver a product—a trend that holds across all four global regions and eight product lines, despite some anomalies.  
+- Two products stand out with significantly longer shipping times than the rest: Samsung Charging Cable in EMEA takes 9 days, and Apple AirPods Headphones in North America take 6 days.  
+- Consequently, the average delivery times for these products are extended to 15 days in EMEA and 11 days in North America.  
+- In contrast, Bose Soundsport Headphones have slightly lower shipping times in APAC and LATAM, averaging 1 day.  
+- When factoring in these anomalies, the overall average shipping time increases to 3 days in EMEA and 4 days in North America, with the average delivery time rising to 9 days.
   
 ## Loyalty Program			
 ![Screenshot 2025-02-19 163658](https://github.com/user-attachments/assets/4d3bbb3b-30a1-4959-8b74-fc371d73dc5a)
@@ -94,7 +94,8 @@ This project delivers insights and recommendations in the following areas:
 **Improve the Sales of underperforming items & off-Peak months**: The Bose SoundSport headphones and Apple iPhone have the lowest purchase frequency, and may need further analysis to understand customer preferences. It might be useful to assess whether pricing adjustments, new marketing strategies, or promotional efforts are needed to boost their visibility and appeal. Given that sales dip between February and June, as well as in October, consider introducing promotions, limited-time offers, or new product launches during these months to stimulate interest and maintain sales momentum. 
 
 ## Product Delivery
-- Measures should be taken to ship the product on the day of purchase, so that delivery time can be reduced by 25%.
+- Steps should be taken to ensure products are shipped on the day of purchase to reduce delivery time by 25%.
+- Discrepancies in shipping times should be investigated, particularly for Samsung Charging Cable in EMEA (9 days) and Apple AirPods Headphones in North America (6 days).
   
 ## Loyalty Program
 **Focus on Loyalty Program Expansion**: Given that loyalty program customers are now contributing a larger share of sales revenue (53% in 2021 and 55% in 2022), it would be beneficial to further invest in the loyalty program. This could include promoting exclusive benefits, offering personalized incentives, or increasing customer engagement to attract more non-loyalty customers to join the program.
