@@ -24,6 +24,10 @@ This project delivers insights and recommendations in the following areas:
 # Executive Summary
 ![image](https://github.com/user-attachments/assets/f0948444-957b-470c-b515-a8daacd20907)
 
+1. **Pandemic-Driven Demand Spike (2020-2021):** Sales of electronics, particularly **27-inch 4K gaming monitors, MacBook Air laptops, Apple AirPods, and iPhones**, saw significant increases during the COVID-19 pandemic. This trend aligns with increased remote work, virtual communication, and home entertainment needs.  
+2. **Peak Sales Periods:** Spikes in sales occurred during key months such as **June, September, and December**, suggesting seasonal demand (possibly influenced by mid-year sales, back-to-school, and holiday shopping).  
+3. **Declining Trend Post-2021:** After peaking in 2021, sales began to decline throughout 2022 aligning with 2019 sales by the last quarter of 2022, indicating a potential market saturation or reduced consumer demand post-pandemic.  
+4. **Lower-Volume Products:** Items like **Samsung Charging Cable Packs and Webcams** remained relatively stable in sales without major fluctuations, likely reflecting consistent but lower demand.  
 
 # Deep dive into insights
 ## Sales 
@@ -76,6 +80,8 @@ This project delivers insights and recommendations in the following areas:
 
 # Recommendations
 ## Sales 
+**Sales surge during the COVID-19 pandemic**: The COVID-19 pandemic significantly boosted electronics sales due to lifestyle shifts toward remote work, education, and entertainment. However, as restrictions eased, demand declined, suggesting a return to normal consumption patterns. This insight is crucial for inventory planning and marketing strategies in the consumer electronics sector.
+
 **Maximize the Success of High-Grossing Products, most frequently purchased products & Peak Sales Periods**: Since the 27-inch 4K gaming monitors, Apple AirPods, MacBook Air laptops, and ThinkPad laptops account for a significant portion of the revenue (96%), continue to prioritize these items in your product offerings. Highlight them in promotions, ensure sufficient stock, and consider seasonal discounts (between  September and December) or limited-time offers & create loyalty incentives.
 
 **Revitalize Low-Grossing Products**: Products like the Bose SoundSport headphones, Apple iPhone, Samsung charging cable pack, and Samsung webcam, which make up only 4% of the sales. Assess the reasons behind their low sales (e.g., lack of visibility, consumer demand, or quality concerns) and strategize on how to boost their performance by discounts, improved marketing, or product repositioning.
