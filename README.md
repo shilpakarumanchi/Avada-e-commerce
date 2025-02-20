@@ -59,9 +59,11 @@ This project delivers insights and recommendations in the following areas:
 ## Product Delivery
 ![Screenshot 2025-02-20 095710](https://github.com/user-attachments/assets/629cbe47-17b3-4274-88d9-8e374a72e635)
 
-- On average, Avada takes 2 days to ship and 8 days to deliver a product, a trend that has remained consistent across all four global regions and eight product lines.
-- However, the shipping time for the Samsung Charging Cable to EMEA increased to 9 days, while the shipping time for the Apple AirPods headphones in NA was 6 days.
-- As a result, the delivery times for these products in EMEA and NA were extended to 15 and 11 days, respectively.
+- On average, Avada takes 2 days to ship and 8 days to deliver a product, a trend that has remained consistent across all four global regions and eight product lines with some anamolies.
+- Two items had very long shipping times then the rest of the products across all regions. This includes: Samsung Charging Cable in EMEA (9 days) and Apple AirPods headphones in NA (6 days).
+- As a result, average delivery times for these products in EMEA and NA were extended to 15 and 11 days, respectively.
+- Bose soundsport headphones on the other hand had slightly lower shipping times (1 day) in APAC and LATAM.
+- Taking average incuding anamolies has increased the overall shipping time to 3 days in EMEA and 4 days in NA and delivery time to 9 days.
   
 ## Loyalty Program			
 ![Screenshot 2025-02-19 163658](https://github.com/user-attachments/assets/4d3bbb3b-30a1-4959-8b74-fc371d73dc5a)
@@ -71,10 +73,11 @@ This project delivers insights and recommendations in the following areas:
 - Additionally, the Average Order Value (AOV) for loyalty program customers has been steadily increasing over the years. By 2022, the AOV for loyalty program members ($245) surpassed that of non-loyalty program customers ($214).
   
 ## Refunds
-![Screenshot 2025-02-19 124221](https://github.com/user-attachments/assets/fd33f78a-f8d0-4686-a7f2-2e1a11815d82)
+![Screenshot 2025-02-20 101422](https://github.com/user-attachments/assets/742fdd98-28da-44bb-baa1-dbb3548e26bc)
+
 - Since 2019, a total of 5,379 products have been refunded, resulting in an overall refund rate of 5%.
 - The highest refund rates are seen with the ThinkPad Laptop (12%) and MacBook Air Laptop (11%), while the products with the most refunds are the Apple AirPods Headphones (2,636) and the 27-inch 4K Gaming Monitor (1,444).
-- Among the refunded items, North America has the highest refund rate at 56%, followed by EMEA with 27%.
+- North America has the highest number of refunded items at 2,998, making up 56%, followed by EMEA with 1,462 refunds, accounting for 27%.
 - Refunds peaked in 2020 and the first half of 2021, likely correlating with the surge in sales during that period.
 - There have been no refunds since July 2021, which requires further investigation.
 
