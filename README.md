@@ -25,7 +25,7 @@ This project delivers insights and recommendations in the following areas:
 4. **Lower-Volume Products:** Items like **Samsung Charging Cable Packs and Webcams** remained relatively stable in sales without major fluctuations, likely reflecting consistent but lower demand.
 *NOTE: The figure includes dynamic filters that can be utilized in Excel.
 
-# Deep dive into insights
+# Insights Deep Dive
 ## Sales 
 ![Screenshot 2025-02-19 170111](https://github.com/user-attachments/assets/4eafd840-efad-401b-9253-d78b4d6219b7)
 
