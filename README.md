@@ -86,7 +86,9 @@ This project delivers insights and recommendations in the following areas:
 
 ## Product Delivery
 **Optimize Shipping Processes**: Implement measures to ensure same-day or next-day shipping across all regions to reduce overall shipping delays.
+
 **Investigate Shipping Anomalies**: Analyze the causes behind the extended shipping times for Samsung Charging Cable in EMEA (9 days) and Apple AirPods Headphones in North America (6 days) to identify and resolve inefficiencies.
+
 **Improve Logistics in High-Delay Regions**: Work with regional carriers and fulfillment centers in EMEA and North America to streamline shipping processes and bring delivery times closer to the global average.
   
 ## Loyalty Program
