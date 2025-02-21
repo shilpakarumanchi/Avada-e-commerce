@@ -16,6 +16,7 @@ This project delivers insights and recommendations in the following areas:
 - Steps taken to clean the inconsistencies and non-sensical values are detailed [here](https://github.com/shilpakarumanchi/Avada-e-commerce/blob/04d40f47001832f8343bd352032b47cf970bf0ce/Avada_issue_log_git.xlsx)
 - SQL queries used to derive insigths can be found [here](https://github.com/shilpakarumanchi/Avada-e-commerce/blob/471184cb64ad8eb3ade58a3a6c11e3cae75aae50/sql_code.sql)
 - Data analysis in Excel can be found [here](https://github.com/shilpakarumanchi/Avada-e-commerce/blob/a087a4413d174ad601b6fcfbed092c1fd3b2eef5/Avada_ecommerce_Analysis_git.xlsx)
+- ERD can be found [here](https://github.com/shilpakarumanchi/Avada-e-commerce/blob/edc29c3d9a457949844e5f6d8b8bedff263e9360/ERD_grey.png)
 
 # Executive Summary
 ![image](https://github.com/user-attachments/assets/f0948444-957b-470c-b515-a8daacd20907)
