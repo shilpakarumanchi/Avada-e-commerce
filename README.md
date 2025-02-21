@@ -82,7 +82,7 @@ This project delivers insights and recommendations in the following areas:
 
 **Leverage High AOV Products**: Since laptops have the highest AOV, emphasize their premium status and the value they offer. Consider offering financing or payment plans for customers to make these higher-priced products more accessible.
 
-**Improve the Sales of underperforming items & off-Peak months**:Products like the Bose SoundSport headphones, Apple iPhone, Samsung charging cable pack, and Samsung webcam, make up only 4% of the sales. Assess the reasons behind the low sales (e.g., lack of visibility, consumer preferences, or quality concerns) and strategize on how to boost their performance by pricing adjustments, improved marketing or product repositioning. Given that sales dip between February and June, as well as in October, consider introducing promotions, limited-time offers, or new product launches during these months to stimulate interest and maintain sales momentum. 
+**Improve the Sales of underperforming items & off-Peak months**: Products such as the Bose SoundSport Headphones, Apple iPhone, Samsung Charging Cable Pack, and Samsung Webcam account for only 4% of total sales. Additionally, February to June and October are identified as off-peak months. It is essential to analyze the factors contributing to low sales of these underperforming items, such as lack of visibility or quality concerns. To enhance their performance and boost sales during off-peak months, consider strategies like pricing adjustments, targeted promotions, limited-time offers, or launching new products during these periods.
 
 ## Product Delivery
 **Optimize Shipping Processes**: Implement measures to ensure same-day or next-day shipping across all regions to reduce overall shipping delays.
@@ -94,9 +94,9 @@ This project delivers insights and recommendations in the following areas:
 ## Loyalty Program
 **Focus on Loyalty Program Expansion**: Given that loyalty program customers are now contributing a larger share of sales revenue (53% in 2021 and 55% in 2022), it would be beneficial to further invest in the loyalty program. This could include promoting exclusive benefits, offering personalized incentives, or increasing customer engagement to attract more non-loyalty customers to join the program.
 
-**Leverage Increasing AOV**: Since the AOV for loyalty program customers has been steadily increasing, this indicates that these customers are more likely to spend more per transaction. You could design targeted marketing campaigns to further increase their spending, such as introducing tiered rewards or limited-time offers that encourage larger purchases.
+**Leverage Increasing AOV**: Since the AOV for loyalty program customers has been steadily increasing, this indicates that these customers are more likely to spend more per transaction. Targeted marketing campaigns cn be designed to further increase their spending, such as introducing tiered rewards or limited-time offers that encourage larger purchases.
 
-**Analyze Non-Loyalty Customer Segments and Optimize AOV**: Although non-loyalty customers have a lower AOV ($214), they contributed higher overall revenue ($17M), making them a valuable target for conversion to the loyalty program. To encourage sign-ups, consider strategies such as offering an attractive signup bonus, emphasizing program benefits, or providing personalized promotions. Additionally, incentives like free shipping, product bundles, or limited-time discounts could help increase their AOV, bringing their spending closer to that of loyalty program members.
+**Analyze Non-Loyalty Customer Segments and Optimize AOV**: Although non-loyalty customers have a lower AOV ($214), they contributed higher overall revenue ($17M), making them a valuable target for conversion to the loyalty program. To encourage sign-ups and to help increase AOV, consider strategies such as offering an attractive signup bonus, emphasizing program benefits, or providing personalized promotions like free shipping, product bundles, or limited-time discounts.
 
 ## Refunds
 
