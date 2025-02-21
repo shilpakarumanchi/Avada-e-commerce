@@ -84,7 +84,7 @@ This project delivers insights and recommendations in the following areas:
 
 **Leverage High AOV Products**: Since laptops have the highest AOV, emphasize their premium status and the value they offer. Consider offering financing or payment plans for customers to make these higher-priced products more accessible.
 
-**Improve the Sales of underperforming items & off-Peak months**: Products such as the Bose SoundSport Headphones, Apple iPhone, Samsung Charging Cable Pack, and Samsung Webcam account for only 4% of total sales. Additionally, February to June and October are identified as off-peak months. It is essential to analyze the factors contributing to low sales of these underperforming items, such as lack of visibility or quality concerns. To enhance their performance and boost sales during off-peak months, consider strategies like pricing adjustments, targeted promotions, limited-time offers, or launching new products during these periods.
+**Improve the Sales of underperforming items & off-Peak months**: The four lowest-selling products contribute only 4% of total sales. Additionally, February to June and October are identified as off-peak months. It is essential to analyze the factors contributing to low sales of these underperforming items, such as lack of visibility or quality concerns. To enhance their performance and boost sales during off-peak months, consider strategies like pricing adjustments, limited-time offers, or launching new products during these periods.
 
 ## Product Delivery
 **Optimize Shipping Processes**: Implement measures to ensure same-day or next-day shipping across all regions to reduce overall shipping delays.
@@ -102,7 +102,7 @@ This project delivers insights and recommendations in the following areas:
 
 ## Refunds
 
-**Analyze the reasons for high refund rates  and high refund numbers **: Highest refund rates are seen with the ThinkPad Laptop (12%) and MacBook Air Laptop (11%) and highest number of refunds are seen the Apple AirPods Headphones (2,636) and the 27-inch 4K Gaming Monitor (1,444).  Check if there are consistent issues with these models (e.g., hardware defects, software issues, compatibility problems, product recalls, or customer expectations) and whether these problems are being addressed in newer models or firmware updates.
+**Analyze the reasons for high refund rates  and high refund numbers**: Highest refund rates are seen with the ThinkPad Laptop (12%) and MacBook Air Laptop (11%) and highest number of refunds are seen the Apple AirPods Headphones (2,636) and the 27-inch 4K Gaming Monitor (1,444).  Check if there are consistent issues with these models (e.g., hardware defects, software issues, compatibility problems, product recalls, or customer expectations) and whether these problems are being addressed in newer models or firmware updates.
 
 **Focus on North American Refunds**: North America has the highest number of refunded items at 2,998 (56%). Explore if there's a specific region or customer base in North America where refunds are particularly high, and whether there are factors related to distribution channels, product usage, or customer service that might be contributing to this trend.
 
