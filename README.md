@@ -68,7 +68,7 @@ This project delivers insights and recommendations in the following areas:
   
 ## Refunds
 ![Screenshot 2025-02-21 090738](https://github.com/user-attachments/assets/b86984ff-caea-4acd-94cf-9543a721af20)
-- Since 2019, a total of 5,379 products have been refunded, resulting in an overall refund rate of 5%.
+- Since 2019, a total of 5,379 products have been refunded, resulting in an overall refund rate of 5% (Ref: Table - Product line section).
 - The highest refund rates are seen with the ThinkPad Laptop (12%) and MacBook Air Laptop (11%), while the products with the most refunds are the Apple AirPods Headphones (2,636) and the 27-inch 4K Gaming Monitor (1,444).
 - North America has the highest number of refunded items at 2,998, making up 56%, followed by EMEA with 1,462 refunds, accounting for 27%.
 - Refunds peaked in 2020 and the first half of 2021, likely correlating with the surge in sales during that period.
