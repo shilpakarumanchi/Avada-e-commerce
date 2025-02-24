@@ -78,7 +78,7 @@ This project delivers insights and recommendations in the following areas:
 
 # Recommendations
 ## Sales 
-**Sales surge during the COVID-19 pandemic**: The COVID-19 pandemic significantly boosted electronics sales (YOY growth rate in 2020: 103%) due to lifestyle shifts toward remote work, education, and entertainment. However, as restrictions eased, demand declined, suggesting a return to normal consumption patterns. This insight is crucial for inventory planning and marketing strategies in the consumer electronics sector.
+**Sales surge during the COVID-19 pandemic**: The COVID-19 pandemic significantly boosted electronics sales (YOY growth rate in 2020: 101%) due to lifestyle shifts toward remote work, education, and entertainment. However, as restrictions eased, demand declined, suggesting a return to normal consumption patterns. This insight is crucial for inventory planning and marketing strategies in the consumer electronics sector.
 
 **Maximize the Success of High-Grossing Products, most frequently purchased products & Peak Sales Periods**: Since the 27-inch 4K gaming monitors, Apple AirPods, MacBook Air laptops, and ThinkPad laptops account for a significant portion of the revenue (96%), continue to prioritize these items in product offerings. Highlight them in promotions, ensure sufficient stock, and consider seasonal discounts (between  September and December) or limited-time offers & create loyalty incentives.
 
