@@ -78,33 +78,31 @@ This project delivers insights and recommendations in the following areas:
 
 # Recommendations
 ## Sales 
-**Sales surge during the COVID-19 pandemic**: The COVID-19 pandemic significantly boosted electronics sales due to lifestyle shifts toward remote work, education, and entertainment. However, as restrictions eased, demand declined, suggesting a return to normal consumption patterns. This insight is crucial for inventory planning and marketing strategies in the consumer electronics sector.
+**Sales surge during the COVID-19 pandemic**: The COVID-19 pandemic significantly boosted electronics sales (YOY growth rate: 103%) due to lifestyle shifts toward remote work, education, and entertainment. However, as restrictions eased, demand declined, suggesting a return to normal consumption patterns. This insight is crucial for inventory planning and marketing strategies in the consumer electronics sector.
 
 **Maximize the Success of High-Grossing Products, most frequently purchased products & Peak Sales Periods**: Since the 27-inch 4K gaming monitors, Apple AirPods, MacBook Air laptops, and ThinkPad laptops account for a significant portion of the revenue (96%), continue to prioritize these items in product offerings. Highlight them in promotions, ensure sufficient stock, and consider seasonal discounts (between  September and December) or limited-time offers & create loyalty incentives.
 
-**Leverage High AOV Products**: Since laptops have the highest AOV, emphasize their premium status and the value they offer. Consider offering financing or payment plans for customers to make these higher-priced products more accessible.
+**Leverage High AOV Products**: Since laptops have the highest AOV (≈$1300), emphasize their premium status and the value they offer. Consider offering financing or payment plans for customers to make these higher-priced products more accessible.
 
 **Improve the Sales of underperforming items & off-Peak months**: The four lowest-selling products contribute only 4% of total sales. Additionally, February to June and October are identified as off-peak months. It is essential to analyze the factors contributing to low sales of these underperforming items, such as lack of visibility or quality concerns. To enhance their performance and boost sales during off-peak months, consider strategies like pricing adjustments, limited-time offers, or launching new products during these periods.
 
 ## Product Delivery
 **Optimize Shipping Processes**: Implement measures to ensure same-day or next-day shipping across all regions to reduce overall shipping delays.
 
-**Investigate Shipping Anomalies**: Analyze the causes behind the extended shipping times for Samsung Charging Cable in EMEA (9 days) and Apple AirPods Headphones in North America (6 days) to identify and resolve inefficiencies.
-
-**Improve Logistics in High-Delay Regions**: Work with regional carriers and fulfillment centers in EMEA and North America to streamline shipping processes and bring delivery times closer to the global average.
+**Investigate Shipping Anomalies & Improve Logistics in High-Delay Regions**: Analyze the causes behind the extended shipping times for Samsung Charging Cable in EMEA (9 days) and Apple AirPods Headphones in North America (6 days) to identify and resolve inefficiencies, bring delivery times closer to the global average.
   
 ## Loyalty Program
 **Focus on Loyalty Program Expansion**: Given that loyalty program customers are now contributing a larger share of sales revenue (53% in 2021 and 55% in 2022), it would be beneficial to further invest in the loyalty program. This could include promoting exclusive benefits, offering personalized incentives, or increasing customer engagement to attract more non-loyalty customers to join the program.
 
-**Leverage Increasing AOV**: Since the AOV for loyalty program customers has been steadily increasing, this indicates that these customers are more likely to spend more per transaction. Targeted marketing campaigns cn be designed to further increase their spending, such as introducing tiered rewards or limited-time offers that encourage larger purchases.
+**Leverage Increasing AOV**: Since the AOV for loyalty program customers has been steadily increasing (AOV $207 in 2019 Vs $245 in 2022), this indicates that these customers are more likely to spend more per transaction. Targeted marketing campaigns cn be designed to further increase their spending, such as introducing tiered rewards that encourage larger purchases.
 
-**Analyze Non-Loyalty Customer Segments and Optimize AOV**: Although non-loyalty customers have a lower AOV ($214), they contributed higher overall revenue ($17M), making them a valuable target for conversion to the loyalty program. To encourage sign-ups and to help increase AOV, consider strategies such as offering an attractive signup bonus, emphasizing program benefits, or providing personalized promotions like free shipping, product bundles, or limited-time discounts.
+**Analyze Non-Loyalty Customer Segments and Optimize AOV**: Although non-loyalty customers have a lower AOV ($214 in 2022), they contributed higher overall revenue ($17M), making them a valuable target for conversion to the loyalty program. To encourage sign-ups and to help increase AOV, consider strategies such as offering an attractive signup bonus, emphasizing program benefits, or providing personalized promotions like free shipping, product bundles, or limited-time discounts.
 
 ## Refunds
 
-**Analyze the reasons for high refund rates  and high refund numbers**: Highest refund rates are seen with the ThinkPad Laptop (12%) and MacBook Air Laptop (11%) and highest number of refunds are seen the Apple AirPods Headphones (2,636) and the 27-inch 4K Gaming Monitor (1,444).  Check if there are consistent issues with these models (e.g., hardware defects, software issues, compatibility problems, product recalls, or customer expectations) and whether these problems are being addressed in newer models or firmware updates.
+**Analyze the reasons for high refund rates  and high refund numbers**: Highest refund rates are seen with the ThinkPad Laptop (12%) and MacBook Air Laptop (11%) and highest number of refunds are seen the Apple AirPods Headphones (2,636) and the 27-inch 4K Gaming Monitor (1,444).  Check if there are consistent issues with these items (e.g., hardware defects, software issues, compatibility problems, product recalls, or customer expectations) and whether these problems are being addressed in newer models or firmware updates.
 
-**Focus on North American Refunds**: North America has the highest number of refunded items at 2,998 (56%). Explore if there's a specific region or customer base in North America where refunds are particularly high, and whether there are factors related to distribution channels, product usage, or customer service that might be contributing to this trend.
+**Focus on North American Refunds**: North America has the highest number of refunded items at 2,998 (56% of total refunds). Explore if there's a specific region or customer base in North America where refunds are particularly high, and whether there are factors related to distribution channels, product usage, or customer service that might be contributing to this trend.
 
 **Examine the sudden drop in refunds after July 2021**: Verify if this is due to improved product quality or operational changes. Ensure there is no reporting error or data anomaly causing this gap.
 
