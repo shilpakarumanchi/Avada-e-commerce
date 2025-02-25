@@ -64,6 +64,7 @@ This project delivers insights and recommendations in the following areas:
 ## Loyalty Program			
 <img align="center">![Screenshot 2025-02-20 111202](https://github.com/user-attachments/assets/dfa66220-545f-470f-bf2c-3a45b3d33ed9)
 
+
 - Overall, customers who are not part of the loyalty program generated $17M in sales revenue, which is 61% higher than the $11M in sales revenue from loyalty program members.
 - However, this trend doesn't hold when broken down by year. In 2019 and 2020, loyalty program customers contributed 11% and 29% of the sales revenue, respectively. This trend reversed in 2021 and 2022, with loyalty program customers accounting for 53% and 55% of the sales revenue.
 - Additionally, the Average Order Value (AOV) for loyalty program customers has been steadily increasing over the years. By 2022, the AOV for loyalty program members ($245) surpassed that of non-loyalty program customers ($214).
