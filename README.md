@@ -62,20 +62,17 @@ This project delivers insights and recommendations in the following areas:
 - When factoring in these anomalies, the overall average shipping time increases to 3 days in EMEA and 4 days in North America, with the average delivery time rising to 9 days.
   
 ## Loyalty Program			
-![Screenshot 2025-02-20 111202](https://github.com/user-attachments/assets/dfa66220-545f-470f-bf2c-3a45b3d33ed9)
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/dfa66220-545f-470f-bf2c-3a45b3d33ed9">
 </p>
-
-
-
 - Overall, customers who are not part of the loyalty program generated $17M in sales revenue, which is 61% higher than the $11M in sales revenue from loyalty program members.
 - However, this trend doesn't hold when broken down by year. In 2019 and 2020, loyalty program customers contributed 11% and 29% of the sales revenue, respectively. This trend reversed in 2021 and 2022, with loyalty program customers accounting for 53% and 55% of the sales revenue.
 - Additionally, the Average Order Value (AOV) for loyalty program customers has been steadily increasing over the years. By 2022, the AOV for loyalty program members ($245) surpassed that of non-loyalty program customers ($214).
   
 ## Refunds
-![Screenshot 2025-02-21 090738](https://github.com/user-attachments/assets/b86984ff-caea-4acd-94cf-9543a721af20)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b86984ff-caea-4acd-94cf-9543a721af20">
+</p>
 - Since 2019, a total of 5,379 products have been refunded, resulting in an overall refund rate of 5% (Ref: Table - Product line section).
 - The highest refund rates are seen with the ThinkPad Laptop (12%) and MacBook Air Laptop (11%), while the products with the most refunds are the Apple AirPods Headphones (2,636) and the 27-inch 4K Gaming Monitor (1,444).
 - North America has the highest number of refunded items at 2,998, making up 56%, followed by EMEA with 1,462 refunds, accounting for 27%.
