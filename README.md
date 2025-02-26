@@ -29,8 +29,9 @@ This project delivers insights and recommendations in the following areas:
 
 # Insights Deep Dive
 ## Sales 
-![Screenshot 2025-02-19 170111](https://github.com/user-attachments/assets/4eafd840-efad-401b-9253-d78b4d6219b7)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4eafd840-efad-401b-9253-d78b4d6219b7">
+</p>
 - Avada e-commerce processed over 108K orders from 2019 to 2022, generating a total of $28M in sales revenue, with an average order value (AOV) of $260.
 - In terms of revenue, 2020 saw the highest at $10M, with an AOV of $300, followed by 2021 with $9M in revenue and an AOV of $255. However, the number of orders was higher in 2021 at 35K, compared to 33K in 2020.
 - The year-over-year (YOY) growth rate was the highest in 2020, with a 101% increase in the number of orders and a 163% increase in sales revenue.
@@ -45,8 +46,9 @@ This project delivers insights and recommendations in the following areas:
 - However, this trend was less noticeable in 2022, as there was an overall decline in sales, with the final quarter of the year seeing sales drop below 2019 levels.
   
 ### Product line
-![Screenshot 2025-02-19 164533](https://github.com/user-attachments/assets/62fbfe72-38dc-4bd0-8787-e371fd0caea3)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/62fbfe72-38dc-4bd0-8787-e371fd0caea3">
+</p>
 - The highest-grossing products overall are the 27-inch 4K gaming monitors, Apple AirPods, MacBook Air laptops, and ThinkPad laptops, which together account for $27M in revenue, representing 96% of total sales.
 - The top two revenue-generating products are the 27-inch 4K gaming monitors and MacBook Air laptops, which together contribute $17.5M in revenue, making up 63% of total sales.
 - On the other hand, the least grossing products include the Bose SoundSport headphones, Apple iPhone, Samsung charging cable pack, and Samsung webcam, which collectively generate $1M in revenue, or 4% of total sales.
