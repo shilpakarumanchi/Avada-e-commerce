@@ -5,7 +5,7 @@ Avada is an e-commerce platform founded in 2018, offering popular consumer elect
 
 This project delivers insights and recommendations in the following areas:
 
-1. **Sales Trends**: Month-over-month (MOM) and year-over-year (YOY) growth rates, Average Order Value (AOV), and number of orders.
+1. **Sales Trends**: Month-over-month (MoM) and year-over-year (YoY) growth rates, Average Order Value (AOV), and number of orders.
 2. **Product Performance**: Market impact of individual product lines, and identification of highest and lowest grossing items.
 3. **Operational Effectiveness**: Evaluation of product delivery times across various product lines and regions.
 4. **Marketing Efforts**: Analysis of the effectiveness of the loyalty program introduced to boost sales, along with its future potential.
