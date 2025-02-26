@@ -117,5 +117,7 @@ This project delivers insights and recommendations in the following areas:
 
 ## Entity Relationship Diagram (ERD)
 The following image provides the Entity Relation Diagram (ERD) of the current database.
-![ERD](https://github.com/user-attachments/assets/eb9bdbdc-5ea5-451a-8a98-cbcb33d1ef6c)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/eb9bdbdc-5ea5-451a-8a98-cbcb33d1ef6c">
+</p>
 
