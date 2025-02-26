@@ -32,6 +32,7 @@ This project delivers insights and recommendations in the following areas:
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4eafd840-efad-401b-9253-d78b4d6219b7">
 </p>
+
 - Avada e-commerce processed over 108K orders from 2019 to 2022, generating a total of $28M in sales revenue, with an average order value (AOV) of $260.
 - In terms of revenue, 2020 saw the highest at $10M, with an AOV of $300, followed by 2021 with $9M in revenue and an AOV of $255. However, the number of orders was higher in 2021 at 35K, compared to 33K in 2020.
 - The year-over-year (YOY) growth rate was the highest in 2020, with a 101% increase in the number of orders and a 163% increase in sales revenue.
