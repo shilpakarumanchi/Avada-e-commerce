@@ -65,7 +65,7 @@ This project delivers insights and recommendations in the following areas:
 ![Screenshot 2025-02-20 111202](https://github.com/user-attachments/assets/dfa66220-545f-470f-bf2c-3a45b3d33ed9)
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/user-attachments/assets/dfa66220-545f-470f-bf2c-3a45b3d33ed9">
+  <img src="https://github.com/user-attachments/assets/dfa66220-545f-470f-bf2c-3a45b3d33ed9">
 </p>
 
 
