@@ -62,8 +62,8 @@ This project delivers insights and recommendations in the following areas:
 - When factoring in these anomalies, the overall average shipping time increases to 3 days in EMEA and 4 days in North America, with the average delivery time rising to 9 days.
   
 ## Loyalty Program			
-<div align="center"><img src="![Screenshot 2025-02-20 111202](https://github.com/user-attachments/assets/dfa66220-545f-470f-bf2c-3a45b3d33ed9)">
-</div>
+![Screenshot 2025-02-20 111202](https://github.com/user-attachments/assets/dfa66220-545f-470f-bf2c-3a45b3d33ed9)
+
 
 
 - Overall, customers who are not part of the loyalty program generated $17M in sales revenue, which is 61% higher than the $11M in sales revenue from loyalty program members.
