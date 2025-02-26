@@ -64,6 +64,10 @@ This project delivers insights and recommendations in the following areas:
 ## Loyalty Program			
 ![Screenshot 2025-02-20 111202](https://github.com/user-attachments/assets/dfa66220-545f-470f-bf2c-3a45b3d33ed9)
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/user-attachments/assets/dfa66220-545f-470f-bf2c-3a45b3d33ed9">
+</p>
+
 
 
 - Overall, customers who are not part of the loyalty program generated $17M in sales revenue, which is 61% higher than the $11M in sales revenue from loyalty program members.
